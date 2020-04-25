@@ -1,0 +1,187 @@
+id,translatable_id,name,locale
+1,6,AIS,cs
+2,6,AIS,en
+3,9,"Aktivní čidla (na družicích)",cs
+4,9,"Active sensors (satellite)",en
+5,10,"Amatérské vysílání",cs
+6,10,Amateur,en
+7,15,"Bezdrátové mikrofony profesionální",cs
+8,15,"Radio microphones",en
+9,139,"Bezdrátový přenos zvuku (SRD)",cs
+10,139,"Wireless audio/multimedia",en
+13,19,BMIS,cs
+14,19,"Land mobile",en
+15,21,CGC,cs
+16,21,CGC,en
+19,173,DECT,cs
+20,173,DECT,en
+21,23,DME,cs
+22,23,DME,en
+23,27,"Družicová TV",cs
+24,27,"Satellite TV",en
+25,28,"Družicové amatérské vysílání",cs
+26,28,Amateur-satellite,en
+27,30,"Družicové navigační systémy",cs
+28,30,"Satellite navigation systems",en
+29,32,DSC,cs
+30,32,DSC,en
+31,34,DVB-T,cs
+32,34,DVB-T,en
+33,36,EPIRB,cs
+34,36,EPIRBs,en
+35,180,GMDSS,cs
+36,180,GMDSS,en
+37,46,GSM-R,cs
+38,46,GSM-R,en
+39,48,ILS,cs
+40,48,ILS,en
+41,52,ISM,cs
+42,52,ISM,en
+43,55,"Kmitočtový normál",cs
+44,55,"Standard frequency and time signal",en
+45,172,"Komunikace na vodních cestách",cs
+46,172,"Inland waterway communications",en
+47,144,"Lékařské implantáty (SRD)",cs
+48,144,"Active medical implants",en
+49,61,"Letecká radionavigace",cs
+50,61,"Aeronautical navigation",en
+51,62,"Letecká telemetrie",cs
+52,62,"Aeronautical telemetry",en
+53,63,"Letecké aplikace",cs
+54,63,Aeronautical,en
+55,60,"Letecké komunikace",cs
+56,60,"Aeronautical communications",en
+57,64,"Letecké radiomajáky",cs
+58,64,"Beacons (aeronautical)",en
+59,65,"Meteo radary",cs
+60,65,"Weather radar",en
+61,66,"Meteorologické sondy",cs
+62,66,Sondes,en
+63,69,MLS,cs
+64,69,MLS,en
+65,70,MMDS,cs
+66,70,Fixed,en
+67,47,"Mobilní sítě",cs
+68,47,"Digital cellular",en
+69,73,"Modulační spoje",cs
+70,73,"Feeder links",en
+71,74,MSI,cs
+72,74,MSI,en
+73,68,"Námořní komunikace",cs
+74,68,"Maritime communications",en
+75,42,NAVTEX,cs
+76,42,NAVTEX,en
+77,71,"Necivilní využití",cs
+78,71,"Defence systems",en
+79,77,"Nespecifikované SRD",cs
+80,77,"Non-specific SRDs",en
+81,79,"Občanské radiostanice",cs
+82,79,"CB radio",en
+83,147,"Odečty měřičů (SRD)",cs
+84,147,"Meter reading",en
+85,82,"Operační komunikace OCC",cs
+86,82,"Aeronautical communications",en
+87,138,"Ovládání akustických majáčků pro nevidomé (SRD)",cs
+88,138,"Aids for hearing impaired",en
+89,72,"Ovládání modelů",cs
+90,72,"Model control",en
+91,177,"Ovládání modelů (pouze modely letadel)",cs
+92,177,"Flying model control",en
+95,169,"Pasivní čidla (na družicích)",cs
+96,169,"Passive sensors (satellite)",en
+97,84,"Pevné spoje",cs
+98,84,Fixed,en
+99,85,"Pevné spoje bod-bod",cs
+100,85,Point-to-Point,en
+101,86,"Pevné spoje bod-bod a bod-více bodů",cs
+102,86,Point-to-Multipoint,en
+103,93,"PMR 446",cs
+104,93,"PMR 446",en
+105,94,"PMR pro železnici",cs
+106,94,PMR,en
+107,95,PMR/PAMR,cs
+108,95,PMR/PAMR,en
+109,96,"Pohyblivé spoje a sítě",cs
+110,96,"Land mobile",en
+111,98,"Poplachová SRD",cs
+112,98,Alarms,en
+113,99,"Pozemské stanice družicové pevné služby",cs
+114,99,"FSS Earth stations",en
+115,100,"Pozemské stanice družicové pohyblivé služby",cs
+116,100,"MSS Earth stations",en
+117,76,"Pozemské stanice družicové rozhlasové služby",cs
+118,76,"Broadcasting (satellite)",en
+119,5,PPDR,cs
+120,5,PPDR,en
+121,151,"Radarové hladinoměry (SRD)",cs
+122,151,TLPR,en
+123,152,"Radary GPR/WPR (SRD)",cs
+124,152,GPR/WPR,en
+125,105,Radioastronomie,cs
+126,105,"Radio astronomy",en
+127,107,"Radiolokace (civilní)",cs
+128,107,"Radiolocation (civil)",en
+129,153,"RFID (SRD)",cs
+130,153,RFID,en
+131,178,"Rozhlas a TV",cs
+132,178,"Broadcasting (terrestrial)",en
+133,116,"Rozhlas AM",cs
+134,116,"AM sound analogue",en
+135,175,"Rozhlas FM",cs
+136,175,"FM sound analogue",en
+137,122,"Řídící signál pro přesný čas",cs
+138,122,"Standard frequency and time signal",en
+139,123,S-PCS,cs
+140,123,S-PCS,en
+141,35,SAP/SAB,cs
+142,35,PMSE,en
+143,41,"SAR (komunikace)",cs
+144,41,"SAR (communications)",en
+145,124,"SAR (navigace)",cs
+146,124,"SAR (navigation)",en
+147,130,"Spojení na ploše letiště",cs
+148,130,"Aeronautical communications",en
+149,137,Paging,cs
+150,137,Paging,en
+151,179,SRD,cs
+152,179,"Short Range Devices",en
+153,143,"SRD pro rádiové určování",cs
+154,143,"Radiodetermination applications",en
+155,12,"SRD pro telematiku",cs
+156,12,TTT,en
+157,154,"SRD s indukční smyčkou",cs
+158,154,"Inductive applications",en
+159,174,"Širokopásmový přenos dat",cs
+160,174,"Wideband data transmission systems",en
+161,176,"Širokopásmový přenos dat (jen uvnitř budov)",cs
+162,176,"Wideband data transmission systems",en
+163,157,T-DAB,cs
+164,157,T-DAB,en
+165,158,TETRA,cs
+166,158,TETRA,en
+167,155,"Veterinární implantáty (SRD)",cs
+168,155,"Active medical implants",en
+169,164,VOR,cs
+170,164,VOR,en
+171,166,Výškoměry,cs
+172,166,Altimeters,en
+173,181,"Majákové přenosy",cs
+174,181,"Feeder links",en
+175,182,"MFCN - sítě elektronických komunikací",cs
+176,182,MFCN,en
+179,184,"Pasivní čidla (družicová)",cs
+180,184,"Passive sensors (satellite)",en
+187,188,"Družicové meteorologické radary",cs
+188,188,"Weather radar",en
+189,189,"Radiolokace (necivilní)",cs
+190,189,"Radiolocation (military)",en
+191,190,"Datové a povelové stanice",cs
+192,190,"Telemetry/Telecommand (civil)",en
+193,191,"Radiolokační senzory",cs
+194,191,"Wind profilers",en
+195,192,"Kosmický výzkum",cs
+196,192,"Space research",en
+197,193,"Družicové systémy (civilní)",cs
+198,193,"Satellite systems (civil)",en
+199,194,"SRD v datových sítích",cs
+200,194,"SRD in data networks",en

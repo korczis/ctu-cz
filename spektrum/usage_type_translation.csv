@@ -1,0 +1,9 @@
+id,translatable_id,name,locale
+1,1,Nevyužívá,cs
+2,2,Podružně,cs
+3,3,Přednostně,cs
+4,4,Rovnoprávně,cs
+5,1,"Not used",en
+6,2,Secondary,en
+7,3,Primary,en
+8,4,"Equal rights",en

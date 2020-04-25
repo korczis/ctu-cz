@@ -1,0 +1,5 @@
+id,translatable_id,name,locale
+1,1,Přednostní,cs
+2,2,Podružná,cs
+3,1,Primary,en
+4,2,Secondary,en

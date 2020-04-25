@@ -1,0 +1,1396 @@
+id,translatable_id,explanation,locale
+1,1,"Radiotelegrafie s klíčováním nemodulované nosné vlny, příjem sluchem (morseovka)",cs
+2,2,"Radiotelegrafie s klíčováním nemodulované nosné vlny, příjem automaticky (dálnopis)",cs
+3,3,"Radiotelegrafie s klíčováním nosné vlny modulované slyšitelným kmitočtem, příjem sluchem. Je povoleno pouze na záchranných člunech a jako volací značka leteckých radiomajáků.",cs
+4,4,"Radiotelefonie nebo rozhlas s amplitudovou modulací s dvojím postranním pásmem",cs
+5,5,"Automatický letadlový ohlašovací systém, anglicky Automated Aircraft Reporting System",cs
+6,6,"(1) Přizpůsobivý anténní systém, anglicky Adaptive Antenna System
+(2) Pokročilý anténní systém, anglicky Advanced Antenna System",cs
+7,7,"Letecký komunikační systém, anglicky Aircraft Communications Addressing and Reporting System",cs
+8,8,"Oblastní středisko řízení (letového provozu), anglicky Area Control Centre",cs
+9,9,"Oblastní středisko řízení horních letových hladin, anglicky Area Control Centre/Upper",cs
+10,10,"Oblastní středisko řízení spodních letových hladin, anglicky Area Control Centre/Lower",cs
+11,11,"Potvrzení příjmu, anglicky Acknowledge [Rec. ITU-R M.1371-3]",cs
+12,12,"Anglicky Aeronautical Communication Panel [Zpráva CPM11-2]",cs
+13,13,"Analogový - digitální (analogově - digitálně), anglicky analog-to-digital",cs
+14,14,"Převodník analogového signálu na digitální, anglicky Analog-to-Digital Converter",cs
+15,15,"Japonská družice pro pozorování Země, anglicky Advanced Earth Observation Satellite",cs
+16,16,"Automatické zpracování dat, anglicky Automatic Data Processing",cs
+17,17,"Zařízení pro automatické zpracování dat, anglicky Automatic Data Processing Equipment",cs
+18,18,"Družicový rozhlas Astra, anglicky Astra Digital Radio",cs
+19,19,"Automatický závislý přehledový systém, anglicky Automatic Dependant Surveillance (Aeronautical)",cs
+20,20,"Letecká zemská stanice, anglicky Aircraft Earth Station",cs
+21,21,"Adaptivní využívání kmitočtů, anglicky Adaptive Frequency Agility",cs
+22,22,"Automatické řízení frekvence, anglicky Automatic Frequency Control",cs
+23,23,"Automatický systém pro předpovědi a pozorování, anglicky Automatic Forecasting and Observing System",cs
+24,24,"Provoz mezi terminály na palubách letadel a vrtulníků s terminály na zemi, anglicky Air Ground Air [ECA, Rec. ITU-R M.1371-3]",cs
+25,25,"Automatické řízení zesílení, anglicky Automatic Gain Control",cs
+26,26,"Automatický identifikační systém, anglicky Automatic Identification System [ECA]",cs
+27,27,"Automatický identifikační systém - vyhledávací a záchranný vysílač, anglicky Automatic Identification System - Search And Rescue Transmitter",cs
+28,28,"Pozemní letecká radionavigační stanice, anglicky Aeronautical Radionavigation Land Station",cs
+29,29,"Automatické řízení úrovně, anglicky Automatic Level Control",cs
+30,30,"Pomocné naslouchací zařízení, anglicky Assistive Listening Devices",cs
+31,31,"Atacama Large Millimeter/Submillimeter Array",cs
+32,32,"Letadlové přistávací systémy, anglicky Airborne Landing System. Zpráva CPM11-2 uvádí Aircraft Landing System.",cs
+33,33,"(1) Pohyblivá letecká radionavigační stanice, anglicky Aeronautical Radionavigation Mobile Station
+(2) Amplitudová modulace, anglicky Amplitude Modulation
+",cs
+34,34,"Letadlové předávání meteorologických údajů, anglicky Aircraft Meteorological Data Relay",cs
+35,35,"Asymetrické modulační a kódovací schéma, anglicky Asymmetrical Modulation and Coding Scheme",cs
+36,36,"Letecká pohyblivá (R) služba (radiokomunikační), anglicky Aeronautical Mobile (R)Service",cs
+37,37,"Letecká pohyblivá služba (radiokomunikační), anglicky Aeronautical Mobile Service",cs
+38,38,"Družicová letecká pohyblivá (OR )služba (radiokomunikační), anglicky Aeronautical Mobile - Satellite (Off-Route) Service",cs
+39,39,"Družicová letecká pohyblivá (R)služba (radiokomunikační), anglicky Aeronautical Mobile - Satellite (Route) Service",cs
+40,40,"Družicová letecká pohyblivá služba (radiokomunikační), anglicky Aeronautical Mobile Satellite Service",cs
+41,41,"Letecká telemetrie, anglicky Aeronautical Mobile Telemetry",cs
+42,42,"Americký národní institut pro standardy, anglicky American National Standards Institute",cs
+43,43,"Poskytovatel leteckých navigačních služeb, anglicky Air Navigation Service Provider",cs
+44,44,"1) Překážková mapa letiště, anglicky Aerodome Obstacle Chart
+2) Řízení letového provozu, anglicky Aeronautical Operational Control",cs
+45,45,"Krok zveřejnění informací o družicové síti v rámci postupu u ITU, anglicky Advance Publication Information (viz Dodatek 4 Radiokomunikačního řádu)",cs
+46,46,"Nejvzdálenější bod oběžné dráhy družice",cs
+47,47,"APP = Řízení přiblížení, anglicky Approach Control, App. = Dodatek Radiokomunikačního řádu, anglicky Appendix of the ITU Radio Regulations [ECA]
+
+",cs
+48,48,"Regionální skupina zemí Asijsko-pacifického teritoria, anglicky Asia-Pacific Telecommunity",cs
+49,49,"Přiblížení a přistání s vertikálním vedením, anglicky Approach and Landing Operations with Vertical Guidance",cs
+50,50,"Vysílač majákových signálů pro radioamatérský orientační běh, anglicky Amateur Radio Direction Finding",cs
+51,51,"Letecká radionavigační služba (radiokomunikační), anglicky Aeronautical Radionavigation Service",cs
+52,52,"Družicová letecká radionavigační služba (radiokomunikační), anglicky Aeronautical Radionavigation-Satellite Service",cs
+53,53,"Průměrná tržba za uživatele, anglicky Average Revenue Per User",cs
+54,54,"Amatérská služba (radiokomunikační), anglicky Amateur Service [Zpráva CPM11-2]",cs
+55,55,"Družicová amatérská služba (radiokomunikační), anglicky Amateur-Satellite Service [Zpráva CPM11-2]",cs
+57,57,"Družicová amatérská služba (radiokomunikační), anglicky Amateur-Satellite Service",cs
+58,58,"Americký standardní kód pro výměnu informací, anglicky American Standard Code for Information Interchange [Rec. ITU-R M.1371-3]",cs
+59,59,"Zařízení pro detekci na letištní ploše, anglicky Airport Surface Detection Equipment",cs
+60,60,"Konzultační skupina pro kmitočty leteckého spektra, anglicky Aeronautical Spectrum Frequency Consultation Group. Nezávislá skupina zahrnující evropské státy, Evropskou komisi, ICAO, Eurocontrol, IATA, poskytovatele leteckých navigačních služeb, a další.",cs
+61,61,"Čidlo pohybu na letištní ploše, anglicky Airfield Surface Movement Indicator",cs
+62,62,"Družicová amatérská služba, anglicky Amateur-Satellite Service",cs
+63,63,"Řízení letového provozu, anglicky Air Trafic Control [Zpráva CPM11-2]",cs
+64,64,"(1) (Letecká) Automatická informační služba koncového řízení oblasti, anglicky Automatic Terminal Information Service
+(2) Automatický systém pro identifikaci rádiových stanic na vodních cestách, anglicky Automatic Transmitter Identification System",cs
+65,65,"(1) Řízení letového provozu, anglicky Air Traffic Management [Zpráva CPM11-2]
+(2) Asynchronní režim přenosu, anglicky Asynchronous Transfer Mode",cs
+66,66,"Pomoc/pomůcka pro navigaci, anglicky Aid to Navigation [Rec. ITU-R M.1371-3]",cs
+67,67,"Automatické řízení vysílacího výkonu, anglicky Automatic Transmitter Power Control. Automatické řízení vysílacího výkonu je technika, při které je výstupní výkon mikrovlnného vysílače automaticky měněn tak, aby kompenzoval podmínky šíření. Při normálních podmínkách šíření udržuje ATPC výstupní výkon vysílače na snížené úrovni. ATPC je charakterizováno svým rozsahem, který je určen jako rozdíl mezi maximální a minimální hodnotou vysílaného výkonu a nemá vliv na návrh příslušného spoje. [RESOLUCE [COM5/5] (WRC 07)] ",cs
+68,68,"Letové provozní služby, anglicky Air Traffic Services",cs
+69,69,"Výbor pro rozvoj televizních systémů (USA a Kanada), anglicky Advanced Television Systems Committee",cs
+70,70,"Automatická identifikace vozu, anglicky Automatic Vehicle Identification [ECA]",cs
+71,71,"Palubní povětrnostní radar, anglicky Airborne Weather Radar (Pozn. např. detekce bouřek)",cs
+72,72,"Rozhlasová pomocná služba, anglicky Broadcasting Auxiliary Service",cs
+73,73,"Širokopásmová krizová komunikace, anglicky Broad Band Disaster Relief",cs
+74,74,"Rozhlasová stanice, anglicky Broadcasting station, sound",cs
+75,75,"Spektrální maska ""hran"" bloku, anglicky Block Edge Mask [ECC Rep 131]",cs
+76,76,"Širokopásmový pevný bezdrátový přístup, anglicky Broadband Fixed Wireless Access [ECA]",cs
+77,77,"Za přímou viditelností (označuje se tak např. místo za horizontem), anglicky Beyond Line-Of-Sight",cs
+78,78,"Zařízení pro analýzu stavebních materiálů, anglicky Building Material Analysis.",cs
+79,79,"Bezdrátový místní informační systém",cs
+80,80,"Širokopásmové komunikace po energetické síti, anglicky Broadband over Powerline",cs
+81,81,"Bity za sekundu, anglicky Bits per Second (datová rychlost)",cs
+82,82,"Dvojstavové fázové klíčování, anglicky Binary Phase-Shift Keying",cs
+83,83,"Radiokomunikační úřad ITU-R, francouzsky Bureau des radiocommunications UIT-R",cs
+84,84,"Základní prostorová navigace v letectví, anglicky Basic Area Navigation",cs
+85,85,"(1) Rozhlasová služba (radiokomunikační), anglicky Broadcasting Service
+(2) Základnová stanice, anglicky Base Station",cs
+86,86,"Družicová rozhlasová služba (radiokomunikační), anglicky Broadcasting-Satellite Service",cs
+87,87,"Televizní stanice, anglicky Broadcasting station, television",cs
+88,88,"Širokopásmový bezdrátový přístup, anglicky Broadband Wireless Access",cs
+89,89,"Ovládání a kontrola, anglicky Command and Control",cs
+90,90,"Společný varovný protokol, anglicky Common Alerting Protocol v rámci krizové komunikace PPDR",cs
+91,91,"Ovládání a kontrola, anglicky Command and Control",cs
+92,92,"""Občanské"" pásmo, anglicky Citizen Band (27 MHz)",cs
+93,93,"Podskupina COCOM pro záležitosti rozhlasové služby, anglicky Communication Committee Broadcasting Issues Subgroup",cs
+94,94,"Mezinárodní konzultační výbor ITU pro radiokomunikace, anglicky International Radio Consultative Committee, francouzsky Comité consultatif international pour la radio. Od roku 1992 přejmenován na ITU-R.",cs
+95,95,"Mezinárodní konzultační výbor ITU pro telefonii a telegrafii, anglicky International Telegraph and Telephone Consultative Committee. V r. 1993 přejmenován na ITU-T.",cs
+96,96,"Vícenásobný přístup rozlišovaný kódem, anglicky Code Division Multiple Access",cs
+97,97,"Evropská konference poštovních a telekomunikačních správ, anglicky European Conference of Postal and Telecommunications Administration, francouzsky Conference Européenne des Administrations des Postes et des Télécommunications",cs
+98,98,"Výbor pro poštovní záležitosti, francouzsky Comitée Européen de Réglementation Postale",cs
+99,99,"Komplementární pozemské části družicového pohyblivého systému, anglicky Complementary Ground Components. CGCs jsou definovány jako stanice na zemi v pevném umístění za účelem zlepšení dosažitelnosti družicové pohyblivé služby v místech, kde komunikaci s jednou nebo více kosmickými stanicemi nelze zajistit v požadované kvalitě. Aby bylo zamezeno vzniku škodlivého rušení, mohou být takovéto pozemské stanice provozovány pouze jako nedílná součást družicového pohyblivého systému a pod řízením tohoto systému. [2007/98/ES]",cs
+100,100,"Šířka rádiového kanálu, anglicky Channel Bandwith [Rec. ITU-R M.1371-3]",cs
+101,101,"Kanálový rastr, anglicky Channel Spacing [Rec. ITU-R M.1371-3]",cs
+102,102,"Španělsky Conferencia Internacional de Radiodifusión por altas frequencias, anglicky International High Frequency Broadcasting Conference",cs
+103,103,"Mezinárodní výbor pro radiokomunikace na moři, francouzsky Comité International Radio Maritime, anglicky International Maritime Radio Association [Rec. ITU-R M.1371-3]",cs
+104,104,"Zvláštní mezinárodní výbor pro rádiové rušení, francouzsky Comité International Spécial des Perturbations Radioélectriques, anglicky Special International Committee on Radio Interference
+Internet IEC CISPR",cs
+105,105,"Meziamerická telekomunikační konference, španělsky Conferencia Interamericana des Telecomunicaciones",cs
+106,106,"Zkratka CNS/ATM komplexně vyjadřuje potřeby řízení letového provozu: komunikace, navigace, dozor/řízení letového provozu, anglicky Communication, Navigation, Surveillance/Air Trafic Managment",cs
+107,107,"Výbor Evropské komise pro elektronické komunikace, anglicky Electronic Communication Comittee",cs
+108,108,"Rádiový vysílač nebo systém, který svou charakteristiku upravuje s ohledem na okolní rádiové prostředí",cs
+109,109,"Ruský na družicích založený vyhledávací a záchranný systém (viz také SARSAT)",cs
+110,110,"Pilotní kanál kognitivního rádia, anglicky Cognitive Pilot Channel",cs
+111,111,"Pracovní skupina CEPT pro přípravu na Světovou radiokomunikační konferenci, anglicky Conference Preparatory Group",cs
+112,112,"Zasedání delegací členských států ITU pro přípravu na Světovou radiokomunikační konferenci, anglicky Conference Preparatory Meeting",cs
+113,113,"1) Centrální rádiová stanice, anglicky Central Radio Station [ECA]
+2) Kognitivní rádiový systém, anglicky Cognitive Radio System [Zpráva CPM11-2]",cs
+114,114,"(1) Centrální stanice, anglicky Central Station
+(2) Detekce nosné, anglicky Carrier Sense. Technologie, při níž se nejprve detekuje zda je vysíláno na nosném kmitočtu AIS, a pokud je volný, zahájí se vysílání. [Rec. ITU-R M.1371-3]
+(3) Řídící stanice, anglicky Control Station [Zpráva CPM11-2]",cs
+115,115,"Řízení vícenásobného časově děleného přístupu na základě detekce využití nosného kmitočtu, anglicky Carrier Sense Time Division Multiple Access [Rec. ITU-R M.1371-3]",cs
+116,116,"Bezšňůrový telefon, anglicky Cordless Telephone",cs
+117,117,"Úmluva ITU, anglicky ITU Convention",cs
+118,118,"Kontinuální vlna, anglicky Continuous Wave",cs
+119,119,"Rozdílový GPS, anglicky Differential Global Positioning System",cs
+120,120,"Digitál - analog, anglicky Digital-to-Analog",cs
+121,121,"Detekce a vyhnutí, anglicky Detect And Avoid. Pozn.: Druh mitigační techniky, tedy technika snižující možnost rušení.",cs
+122,122,"Digitální rozhlas, anglicky Digital Audio Broadcasting",cs
+123,123,"Systém digitálního rozhlasu používajícího internetový protokol, anglicky Digital Audio Broadcasting - Internet Protocol",cs
+124,124,"Přímá komunikace letadla s pozemními ""stanicemi"", anglicky Direct-Air-to-Ground Communications",cs
+125,125,"Přímé vysílání široké veřejnosti, anglicky Direct Broadcast (dB = decibel)",cs
+126,126,"Digitální komunikační systém GSM v pásmu 1800 MHz, anglicky Digital Communication System",cs
+127,127,"Rozhodnutí, anglicky Decision",cs
+128,128,"Digitální pokročilé bezšňůrové telekomunikace, anglicky Digital Enhanced Cordless Telecommunication [ECA]",cs
+129,129,"Dynamický kmitočtový výběr, anglicky Dynamic Frequency Selection",cs
+130,130,"Diferenciální globální družicový navigační systém, anglicky Differential Global Navigation Satellite System [Rec. ITU-R M.1371-3]",cs
+131,131,"V družicové komunikaci sestupný směr, tj. z družice k Zemi, v pohyblivých sítích směr ze základnové stanice k terminálům, anglicky Downlink",cs
+132,132,"Německá kosmická agentura, německy Deutsche Zentrum fur Lüft- und Raumfahrt",cs
+133,133,"Služba datového spoje, anglicky Data Link Service [Rec. ITU-R M.1371-3]",cs
+134,134,"Vysílání digitálních multimédií, anglicky Digital Multimedia Broadcasting",cs
+135,135,"Zařízení na měření vzdálenosti, anglicky Distance Measuring Equipment. Kmitočtový rozsah: 960-1215 MHz, vertikální polarizace. Systém, ve kterém letadlový dotazovač vyšle sérií kódových impulsů, které jsou pozemním odpovídačem přijaty a předány zpět s 50 ms zpožděním na novém kmitočtu. Měřením času od vyslání impulsů dotazovače po přijetí od odpovídače lze stanovit vzdálenost letadla od odpovídače. DME je obvykle systémově svázáno s ILS, MLS nebo VOR. Při systémové vazbě s VOR bývá i fyzicky umístěno společně. [ITU Rec. SM.1413]",cs
+136,136,"Provoz v režimu přímé komunikace mezi terminály, anglicky Direct Mode Operation",cs
+137,137,"viz DL",cs
+138,138,"Systém digitálního rádia, anglicky Digital Radio Mondial",cs
+139,140,"Druh provozu při tísni, bezpečnostní komunikaci a navazování spojení, anglicky Digital Selective Calling [Rec. ITU-R M.1371-3]",cs
+140,141,"Druh vícenásobného přístupu rozlišovaného kódem, anglicky Direct Spread Code Division Multiple Access",cs
+141,142,"Podrobná studie využívání rádiového spektra (v rámci CEPT), anglicky Detailed Spectrum Investigation [ECA]",cs
+142,143,"Digitální účastnická přípojka, anglicky Digital Subscriber Line",cs
+143,144,"Přepnutí na digitální vysílání, anglicky Digital Switchover",cs
+144,145,"Digitální družicový rozhlas, anglicky Digital Satellite Radio",cs
+145,146,"Určená KV komunikace, anglicky Dedicated Short-Range Communication",cs
+146,147,"Druh širokopásmové technologie, anglicky Direct Sequence Spread Spectrum",cs
+147,148,"Koncové datové zařízení, anglicky Data Terminal Equipment [Rec. ITU-R M.1371-3]",cs
+148,149,"Přímý příjem družicových služeb (např. družicová televize v pásmech družicové pevné služby), anglicky Direct-to-Home",cs
+149,150,"Digitální zemská televize, anglicky Digital Terrestrial Television",cs
+150,151,"Dlouhé vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá LF.",cs
+151,152,"Systém digitálního zemského multimediálního vysílání pro ruční přijímače, anglicky Digital Video Broadcasting-Handheld",cs
+152,153,"Systém digitálního družicového multimediálního vysílání pro ruční přijímače, anglicky Digital Video Broadcasting Satellite services to Handheld devices (SH) below 3 GHz [ETSI BROADCAS TS 102 585 V1.1.1]",cs
+153,154,"Systém digitálního zemského televizního vysílání, anglicky Digital Video Broadcasting-Terrestrial",cs
+154,155,"Společné stanovisko evropského letectví, anglicky European Aeronautical Common Position",cs
+155,156,"Elektronický dohled nad zbožím, anglicky Electronic Article Surveillance.",cs
+156,157,"Evropská rozhlasová unie, anglicky European Brodcasting Union",cs
+157,158,"Evropská komise, anglicky European Commission",cs
+158,159,"Evropská společná tabulka přidělení, anglicky European Common Allocation. Viz http://www.erodocdb.dk/docs/doc98/official/pdf/ERCRep025.pdf ",cs
+159,160,"Výbor pro elektronické komunikace CEPT, anglicky Electronic Communications Committee of the CEPT (Pozn.: Předchůdcem do 2001 byl ERC.)",cs
+160,161,"Společný evropský návrh (CEPT na konferenci ITU), anglicky European Common Proposal",cs
+161,162,"Služby elektronických komunikací, anglicky Electronic Communications Services",cs
+162,163,"Výbor pro záležitosti regulace telekomunikací, anglicky European Committee for Regulatory Telecommunications Affairs",cs
+163,164,"Družice pro zkoumání Země, anglicky Earth Exploration Satellite",cs
+164,165,"Služba družicového průzkumu Země (radiokomunikační), anglicky Earth Exploration-Satellite Service",cs
+165,166,"Kmitočtový informační systém ECO, anglicky ECO (European) Frequency Information System",cs
+166,167,"Elektronická zařízení pro produkci (TV, film apod.) v lokalitách mimo studio, anglicky Electronic Field Production",cs
+167,168,"Evropská asociace volného obchodu, anglicky European Free Trade Association",cs
+168,169,"Evropská geostacionární navigační překryvná služba, anglicky European Geostationary Navigation Overlay Service (Pozn.: Více na www.esa.int.)",cs
+169,170,"Dodatečná pásma do nichž se rozšířuje světový systém pro pohyblivé komunikace, anglicky Extended-GSM.",cs
+170,171,"Extra vysoké kmitočty, anglicky Extra High Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá EKV.",cs
+171,172,"Zobrazení s extrémně vysokým rozlišením, anglicky Extremely High Resolution Imagery",cs
+172,173,"Ekvivalentní izotropicky vyzářený výkon (Equivalent Isotropically Radiated Power) (PPKP 1.161) = e.i.r.p.= EIRP; součin výkonu dodávaného do antény a zisku (absolutního nebo isotropního) antény v daném směru vzhledem k izotropické anténně. Pozn.: Při dodávce výkonu 1 kW do izotropické antény tato poskytuje eirp 1 kW ve všech směrech s výslednou intenzitou pole 173 mV/m ve vzdálenosti 1 km.",cs
+173,174,"Extra krátké vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá EHF.",cs
+174,175,"Palubní nouzový lokalizační maják, anglicky Emergency Location Beacon-Aircraft",cs
+175,176,"Nouzový lokalizační vysílač, anglicky Emergency Locator Transmitter",cs
+176,177,"Elektromagnetická kompatibilita, anglicky Electromagnetic Compatability",cs
+177,178,"Elektromagnetická interference, anglicky Electromagnetic Interference",cs
+178,179,"Elektronické předávání zpravodajství a rozhlasové a televizní vysílání z míst mimo rozhlasová a televizní studia, anglicky Electronic News Gathering/Outside Broadcasting",cs
+179,180,"Družice pro zkoumání životního prostředí, anglicky Environmental Satellite",cs
+180,181,"Družice pro pozorování Země, anglicky Earth Observation Satellites",cs
+181,182,"Ekvivalentní hustota výkonového toku, anglicky Equivalent Power Flux Density",cs
+182,183,"Elektronický programový průvodce, anglicky Electronic Programme Guide",cs
+183,184,"Rádiové návěstidlo pro určení polohy tísňové události, anglicky Emergency Position Indicating Radio Beacon",cs
+184,185,"Evropský radiokomunikační výbor, anglicky European Radiocommunications Committee. Pozn.: ERC byl do 2001 předchůdcem dnešního ECC.",cs
+185,186,"Efektivní vyzářený výkon v daném směru (Efective Radiated Power in a given direction) (PPKP 1.162) = e.r.p. = ERP; součin výkonu dodávaného do antény a jejího zisku v daném směru, vztaženého k zisku půlvlnného dipólu v daném směru. Pozn.: Při dodávce výkonu 1 kW do referenční antény tato vyzařuje erp 1 kW v kterémkoli směru v rovníkové rovině s výslednou intenzitou pole 222 mV/m ve vzdálenosti 1 km.",cs
+186,187,"Evropský systém rádiového předávání zpráv, anglicky European Radio Messaging System",cs
+187,188,"Evropský radiokomunikační úřad CEPT, anglicky European Radiocommunications Office. Pozn.: Od 1. 7. 2009 ECO.",cs
+188,189,"Vzestupný směr, anglicky Earth-to-space direction. Pozn.: Také uplink.",cs
+189,190,"Evropská kosmická agentura, anglicky European Space Agency",cs
+190,191,"Zemské stanice na palubách lodí, anglicky Earth Stations on-board Vessels",cs
+191,192,"Evropský telekomunikační úřad CEPT, anglicky European Telecommunications Office",cs
+192,193,"Evropský telekomunikační standardizační institut, anglicky European Telecommunications Standard Institute",cs
+193,194,"(1) Evropská unie, anglicky European Union
+(2) Poznámka ECA, anglicky EUropean footnote [ECA]",cs
+194,195,"Síť spojující 24 Evropských národních meteorologických služeb (www.eumetnet.eu)",cs
+195,196,"Evropská organizace pro využívání meteorologických družic, anglicky European Organization for the Exploitation of Meteorological Satellites",cs
+196,197,"Evropská organizace pro zařízení civilního letectví, anglicky European Organization for Civil Aviation Equipment",cs
+197,198,"Evropská telekomunikační družicová organizace, anglicky European Telecommunications Satellite Organisation. Pozn.: ČR v této organizaci zastupuje MPO.",cs
+198,199,"Činnost vně kosmického prostředku, anglicky Extra Vehicular Activity",cs
+199,200,"předem (z latiny)
+Regulace telekomunikací EU: ex ante hospodářské regulační opatření lze obecně použít pouze v případě, že na analyzovaném trhu nefunguje soutěž. Tedy v případě, že regulátor zjistí, že operátor má významnou tržní sílu (SMP) a proto je nutno použít odpovídající nápravná opatření. Zjištění SMP je ekvivalentní nálezu dominantního postavení podle soutěžního práva (dle posouzení the EU's Court of Justice and General Court). Na základě postupů stanovených v Článku 7 Rámcové směrnice (2002/21/EC) je po národním regulátoru vyžadována, při konzultaci s průmyslem, analýza národního trhu elektronických komunikací a návrh odpovídajících regulačních opatření pro nápravu selhání trhu. Následně musí být zjištěné skutečnosti a navrhovaná opatření notifikována u Komise a národních orgánů ostatních členských zemí.
+Tedy regulátor musí definovat příslušný trh, stanovit zda jeden nebo více účastníků trhu je dominantní a navrhnout odpovídající regulační opatření pro zajištění fungující tržní soutěže.",cs
+200,201,"následně (z latiny)",cs
+201,202,"Radiotelegrafie s kmitočtovým posuvem, automatický příjem (radiodálnopis)",cs
+202,203,"Radiotelefonie nebo rozhlas s kmitočtovou modulací",cs
+203,204,"Letecká stanice, anglicky Aeronautical station",cs
+204,205,"Pevný přístup v rámci časově děleného vícenásobného přístupu, anglicky Fixed Access Time Division Multiple Access [Rec. ITU-R M.1371-3]",cs
+205,206,"Základnová stanice, anglicky Base station",cs
+206,207,"Pobřežní stanice, anglicky Coast station",cs
+207,208,"Federální komise pro komunikace (USA), anglicky Federal Communications Commission",cs
+208,209,"Leteckou stanici v letecké pohyblivé (R) službě, anglicky Aeronautical Station in the Aeronautical Mobile (R) Service",cs
+209,210,"Duplexní provoz s kmitočtovým dělením, anglicky Frequency Division Duplex",cs
+210,211,"Modulační technika pracující s rozprostřeným spektrem - multiplex s kmitočtovým dělením, anglicky Frequency Division Multiplexing",cs
+211,212,"Dopředná chybová korekce, anglicky Forward Error Correction [Rec. ITU-R M.1371-3]",cs
+212,213,"Modulační spoj. V souladu s ustanovením NKT 1.115 je feeder link rádiový spoj z pozemské stanice v určité lokalitě ke kosmické stanici s informacemi pro kosmickou radiokomunikační službu jinou než družicovou pevnou službu. Určitá lokalita může být stanovený pevný bod nebo kterýkoli pevný bod ve stanovené oblasti. Například: feeder link je provozován v družicové pevné službě a předává signály pro družicovou rozhlasovou službu - družicovou TV.",cs
+213,214,"Letecká stanice v letecké pohyblivé (OR) službě, anglicky Aeronautical station in the aeronautical mobile (OR) service",cs
+214,215,"Technologie využívájící spektrálně rozprostřené kmitočtové skoky, anglicky Frequency Hopping Spread Spectrum",cs
+215,216,"Informační kanál v DAB (cca 32 kbit/s), obdoba RDS (730 bit/s) ve VKV rozhlasu, anglicky Fast Information Channel",cs
+216,217,"První přijat, první zpracován, anglicky First-in, first-out [Rec. ITU-R M.1371-3]. Alternativa k výběrovému řízení, která upřednostňuje žádosti podané dříve před pozdějšími.",cs
+217,218,"Pozemní stanice, anglicky Land station",cs
+218,219,"Kmitočtová modulace, anglicky Frequency Modulation",cs
+219,220,"Přístavní stanice, anglicky Port station",cs
+220,221,"Dřívější označení pro současné IMT-2000, anglicky Future Public Land Mobile Telecommunications System",cs
+221,222,"Pevná služba (radiokomunikační), anglicky Fixed Service",cs
+222,223,"Optické komunikace ve volném kosmu, anglicky Free Space Optical Communications",cs
+223,224,"Družicová pevná služba (radiokomunikační), anglicky Fixed-Satellite Service",cs
+224,225,"Protokol pro přenos souborů, anglicky File Transfer Protocol",cs
+225,226,"Síť pevného bezdrátového přístupu, anglicky Fixed Wireless Access",cs
+226,227,"Pevný bezdrátový systém, anglicky Fixed Wireless System",cs
+227,228,"Pevná stanice, anglicky Fixed station",cs
+228,229,"Evropský globální družicový navigační systém",cs
+229,230,"Systém s pozemním rozšířením, anglicky Ground Based Augmentation System",cs
+230,231,"Pozemní radar se syntetickou aperturou, anglicky Ground Based Synthetic Aperture Radar",cs
+231,232,"Geostacionární oběžná dráha Země, anglicky Geostationary Earth Orbit",cs
+232,233,"Světový orbitální družicový navigační systém, anglicky Global Orbiting Navigation Satellite System",cs
+233,234,"Globální námořní tísňový a bezpečnostní systém, anglicky Global Maritime Distress and Safety System",cs
+234,235,"Geostacionární meteorologická družice, anglicky Geostationary Meteorological Satellite",cs
+235,236,"Gaussian Minimum-Shift Keying",cs
+236,237,"Střední Greenwich čas, Greenwich Mean Time",cs
+237,238,"Globální návigační družicový systém, anglicky Global Navigation Satellite System. Pozn.: Obecně, nikoli určitý systém. GNSS je např. GPS, GLONASS a bude jím Galileo.",cs
+238,239,"Všeobecný průkaz operátora, anglicky General Operator's Certificate",cs
+239,240,"Geostacionární provozní družice pro zkoumání životního prostředí, anglicky Geostationary Operational Environmental Satellite",cs
+240,241,"Geostacionární provozní meteorologická družice, anglicky Geostationary Operational Meteorological Satellite",cs
+241,242,"Sestupový maják ILS, sestupová rovina, anglicky Glide Path",cs
+242,243,"Radar pro zkoumání terénu, anglicky Ground-Probing Radar",cs
+243,244,"Druh provozu GSM, anglicky General Packet Radio Service",cs
+244,245,"Světový systém určování polohy, anglicky Global Positioning System",cs
+245,246,"Světový systém pro pohyblivé komunikace, anglicky Global System for Mobile Communications",cs
+246,247,"GSM asociace, anglicky GSM Association",cs
+247,248,"GSM na palubách lodí, anglicky GSM on Board Vessels",cs
+248,249,"Systém GSM pro využití na železnici, anglicky GSM-Railway",cs
+249,250,"Geostacionární oběžná dráha, anglicky Geostationary Satellite Orbit. Pozn.: 35 786 km nad rovníkem.",cs
+250,251,"Systémové předání komunikace v mobilních sítích. Např. komunikace terminálu se základnovou stanicí na jinou základnovou stanicí. Je to jedna z charakteristik odlišujících pohyblivé sítě od pevných.",cs
+251,252,"Stanice na platformách ve velkých výškách, anglicky High Altitude Platform Station. Také nazývané stratosférické opakovače [ITU RESOLUCE 145 (Rev.WRC-07)]. Definované jako stanice umístěné na objektu ve výšce 20 až 50 km a ve vztahu k Zemi v určeném pevném bodě [ITU RESOLUCE 221 (Rev.WRC-07)]. Systémy využívající HAPS sestávají v současnosti ze stanice HAPS a zemských koncových uživatelských terminálů poskytujících bezdrátový přistup. V budoucnu lze očekávat i nomadické a pohyblivé terminály [Rec. ITU-R F.1399]. (Viz PPKP 1.66A)",cs
+252,253,"Služby vysokorychlostního internetu zobrazované na televizní obrazovce, anglicky Hybrid Broadcast Broadband TV",cs
+253,254,"Dohoda HCM – Dohoda mezi správami Rakouska, Belgie, České republiky, Německa, Francie, Maďarska, Nizozemí, Chorvatska, Itálie, Lichtenštejnska, Litvy, Lucemburska, Polska, Rumunska, Slovenska, Slovinska a Švýcarska o koordinaci kmitočtů mezi 29,7 MHz a 43,5 GHz pro pevnou službu a pozemní pohyblivou službu (HCM Agreement – Agreement between the Administrations of Austria, Belgium, the Czech Republic, Germany, France, Hungary, the Netherlands, Croatia, Italy, Liechtenstein, Lithuania, Luxembourg, Poland, Romania, the Slovak Republic, Slovenia and Switzerland on the co-ordination of frequencies between 29.7 MHz and 43,5 GHz for the fixed service and the land mobile service).",cs
+254,255,"Aplikace s velkou hustotou přenosů v pevné službě, anglicky High Density Fixed Service",cs
+255,256,"Aplikace s velkou hustotou přenosů v družicové pevné službě, anglicky High Density Fixed Satellite Service. HDFSS systémy jsou charakteristické flexibilním, rychlým a všudypřítomným rozšiřováním velkého množství cenově přístupných pozemských stanic využívajících malé antény a majících obdobné technické parametry. [ITU RESOLUCE 143 (Rev.WRC-07)]",cs
+256,257,"Televize s vysokým rozlišením, anglicky High Definition TV. Televize s vysokým rozlišením má oproti standardu vycházejícího z původního analogového vysílání (odpovídá rozlišení 720 × 576 bodů = cca 400 000 pixelů) větší počet obrazových bodů, např. rozlišení 720p má 1280 × 720, rozlišení 1080i má 1920 × 1080 (= cca 2 000 000 pixelů). Písmeno i znamená interlaced, tedy prokládané. Při přenosu jednoho snímku se přenáší jen např. liché řádky, při následujícím snímku sudé. Obrazovka má plný počet řádků. Písmeno p znamená progressed - v každém snímku se obnovují všechny řádky. Se zvoleným rozlišením souvisí počet programových kanálů, které lze umístit do jednoho multiplexu (pozor, nejenom s rozlišením). Při 720×576 a kompresním algoritmu MPEG-2 jich může být až 6. Při vysokém rozlišení a MPEG-4 mohou být 4 nebo také jen 2.
+
+",cs
+257,258,"Družicové systémy s vysoce eliptickou oběžnou drahou, anglicky Highly Eliptical Orbit (Pozn. nad 20 tis. km)",cs
+258,259,"Družicové terminály s vysokým EIRP, anglicky High e.i.r.p. Satellite Terminals",cs
+259,260,"Vysoké kmitočty, anglicky High Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá KV.",cs
+260,261,"Rozhlas na krátkých vlnách, anglicky High Frequency BroadCasting.",cs
+261,262,"Koordinační konference pro rozhlas na krátkých vlnách, anglicky High Frequency Coordination Conference. Pozn.: 2 x ročně.",cs
+262,263,"NonGSO družicové systémy s vysoce skloněnou oběžnou drahou (výška apogea větší než 18 000 km a sklon orbitální dráhy mezi 35° a 145°), anglicky Highly Inclined Orbits",cs
+263,264,"Výkonné místní rádiové sítě, anglicky High Performance Radio Local Area Networks",cs
+264,265,"Hromadné rádiové sítě",cs
+265,266,"Přenosná stanice, anglicky Handportable Station. Pozn.: Podle ETSI TS 102 490 V1.1.1.",cs
+266,267,"Vysokorychlostní (směrem k terminálu) paketový přístup, anglicky High-Speed Downlink Packet Access",cs
+267,268,"Vysokorychlostní paketový přístup, anglicky High Speed Packet Access (HSDPA spolu s HSUPA)",cs
+268,269,"Vysokorychlostní (směrem od terminálu) paketový přístup, anglicky High-Speed Uplink Packet Access",cs
+269,270,"Výška vysílače, anglicky Transmitter Height",cs
+270,271,"Mezinárodní asociace správ majáků, anglicky International Association of Lighthouse Authorities",cs
+271,272,"Mezinárodní radioamatérský svaz, anglicky International Amateur Radio Union",cs
+272,273,"Mezinárodní letecká asociace, anglicky International Air Transport Association",cs
+273,274,"Mezinárodní organizace pro civilní letectví, anglicky International Civil Aviation Organisation",cs
+274,275,"Informační a komunikační technologie, anglicky Information and Communication Technologies",cs
+275,276,"Digitalizovaná mapa světa ITU, anglicky ITU Digitized World Map",cs
+276,277,"Mezinárodní elektrotechnická komise, anglicky International Electrotechnical Commission",cs
+277,278,"Institut inženýrů elektro a elektroniky, anglicky Institute of Electrical and Electronics Engineers",cs
+278,279,"Identifikace přítel nebo nepřítel, anglicky Identification Friend or Foe",cs
+279,280,"Mezinárodní kmitočtový seznam, anglicky International Frequency List",cs
+280,281,"Oběžník Radiokomunikačního úřadu ITU s informacemi o kmitočtech, anglicky International Frequency Information Circular",cs
+281,282,"Mezinárodní hydrografická organizace, anglicky International Hydrographic Organization",cs
+282,283,"Systém přístrojového přistávání letadel, anglicky Instrument Landing System",cs
+283,284,"Součást systému přístrojového přistávání letadel, anglicky Instrument Landing System – Glide Path",cs
+284,285,"Mezinárodní námořní organizace, anglicky International Maritime Organisation",cs
+285,286,"Mezinárodní organizace pro družicové mobilní telekomunikace, anglicky International Mobile Satellite Organisation. Pozn.: ČR v této organizaci zastupuje MPO.",cs
+286,287,"Rodina systémů pohyblivých komunikací, anglicky International Mobile Telecommunications zahrnující IMT-2000, IMT-Advanced a IMT-2020 [ITU Res. 56-2]. ",cs
+287,288,"Systém 4. generace pohyblivých komunikací, anglicky International Mobile Telecommunications-Advanced",cs
+288,289,"Systém 3. generace pohyblivých komunikací, anglicky International Mobile Telecommunications-2000. Rádiové rozhraní IMT-2000 je definováno v doporučení ITU-R M.1457.",cs
+289,290,"Mezinárodní námořní družicová organizace, anglicky International Maritime Satellite Organisation",cs
+290,291,"Mezinárodní telekomunikační družicová organizace, anglicky International Telecommunication Satellite Organisation",cs
+291,292,"Mezinárodní organizace pro kosmické komunikace, anglicky International Organisation of Space Communication. Pozn.: ČR v této organizaci zastupuje MPO.",cs
+292,293,"Internetový protokol, anglicky Internet Protocol",cs
+293,294,"Práva duševního vlastnictví, anglicky Intellectual Property Rights",cs
+294,295,"Průmyslové, vědecké a lékařské využití, anglicky Industrial, Scientific and Medical Applications.",cs
+295,296,"Mezinárodní organizace pro standardizaci, anglicky International Organization for Standardization",cs
+296,297,"Poskytovatel připojení k internetu, anglicky Internet Service Provider",cs
+297,298,"Kodex mezinárodní a přístavní bezpečnosti",cs
+298,299,"(1) Mezidružicová služba (radiokomunikační), anglicky Inter-Satellite Service
+(2) Mezinárodní kosmická stanice, anglicky International Space Station",cs
+299,300,"Inteligentní dopravní systémy, anglicky Intelligent Transport Systems",cs
+300,301,"Mezinárodní organizace družicových telekomunikací, anglicky International Telecommunication Satellite Organisation. Pozn.: ČR v této organizaci zastupuje MPO.",cs
+301,302,"Mezinárodní telekomunikační unie, anglicky International Telecommunication Union",cs
+302,303,"Radiokomunikační sektor Mezinárodní telekomunikační unie, anglicky International Telecommunication Union - Radiocommunication",cs
+303,304,"Integrovaný záchranný systém",cs
+304,305,"Radiotelefonie nebo rozhlas s amplitudovou modulaci s jedním postranním pásmem a potlačenou nosnou vlnou",cs
+305,306,"Japonská kosmická agentura",cs
+306,307,"Jednotný systém varování a vyrozumění",cs
+307,308,"Společná pracovní skupina zřízená jednorázově pro určitý úkol, anglicky Joint Task Group. Zřizována např. během studijních období WRC.",cs
+308,309,"Společný taktický informační a distribuční systém, anglicky Joint Tactical Information and Distribution System",cs
+309,310,"Kilobity za sekundu, anglicky Kilobits per Second (datová rychlost)",cs
+310,311,"Kennedyho kosmické centrum, anglicky Kennedy Space Center",cs
+311,312,"Krátké vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá HF.",cs
+312,313,"Místní síť, anglicky Local Area Network",cs
+313,314,"Technologie ""naslouchej před provozem"" pro zamezení interferencí, anglicky Listen Before Talk",cs
+314,315,"Nízký pracovní cyklus, nízká doba vysílání vzhledem k době pauzy mezi vysíláními, anglicky Low Duty Cycle",cs
+315,316,"Nízká oběžná dráha, anglicky Low Earth Orbit. Pozn.: Do 2000 km.",cs
+316,317,"Fáze vyslání a zahájení provozu, anglicky Launch and Early Operations Phase. Pozn.: Týká se životního cyklu družice.",cs
+317,318,"Družicové terminály s nízkým eirp, anglicky Low E.i.r.p. Satellite Terminals",cs
+318,319,"Nízké kmitočty, anglicky Low Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá DV.",cs
+319,320,"Detekce a určování vzdálenosti záblesku, anglicky Light Detection and Ranging",cs
+320,321,"Kurzový maják ILS, anglicky Localizer",cs
+321,322,"Pozemní pohyblivá služba (radiokomunikační), anglicky Land Mobile Service",cs
+322,323,"Družicová pozemní pohyblivá služba (radiokomunikační), anglicky Land Mobile-Satellite Service",cs
+323,324,"Přímá viditelnost, anglicky Line of Sight",cs
+324,325,"Aktivní lékařské implantáty nízkého výkonu, anglicky Low Power-Active Medical Implant",cs
+325,326,"Zařízení s malým výkonem, anglicky Low Power Device",cs
+326,327,"Zařízení pro měření hladiny, anglicky Level Probing Radar",cs
+327,328,"Pozemní radiolokační stanice, anglicky Radiolocation Land Station",cs
+328,329,"Identifikace a sledování na dlouhou vzdálenost, anglicky Long-Range Identification and Tracking",cs
+329,330,"Digitální zobrazování na velkých obrazovkách, anglicky Large Screen Digital Imagery.",cs
+330,331,"8. verze UMTS, technologie předcházející 4. generaci mobilních komunikací, anglicky Long Term Evolution of the 3GPP radio technology",cs
+331,332,"Aplikace sledování polohy typu 2, anglicky Location Tracking Applications Type 2. UWB LT2 systémy jsou provozovány v kmitočtovém rozsahu 3,4 GHz až 4.8 GHz za účelem sledování osob a objektů a další průmyslové aplikace. [ECC Report 167]",cs
+332,333,"Letecká stanice, anglicky Aircraft Station",cs
+333,334,"Informační a vyhledávácí systém pro námořní pohyblivou službu, anglicky Maritime Mobile Access and Retrieval System",cs
+334,335,"Megabity za sekundu, anglicky Megabits per second",cs
+335,336,"Megabyty za sekundu, anglicky Megabytes per second",cs
+336,337,"Pohyblivé komunikace na palubě letadla, anglicky Mobile Communication on board Aircraft",cs
+337,338,"Pohyblivé komunikace na palubě lodi, anglicky Mobile Communication on board Vessel",cs
+338,339,"Zemský mobilní multimediální systém, anglicky Terrestrial Mobile Multimedia Multicast-Forward Link Only. Systém vyvinutý firmou Qualcomm Inc., více na www.mediaflo.com.",cs
+339,340,"Střední oběžná dráha, anglicky Medium Earth Orbit. Pozn. 2000-20 000 km",cs
+340,341,"Pohyblivá pozemská stanice, anglicky Mobile Earth Station",cs
+341,342,"Pomocná meteorologická služba (radiokomunikační), anglicky Meteorological Aids Service",cs
+342,343,"Družicová meteorologická služba (radiokomunikační), anglicky Meteorological-Satellite Service",cs
+343,344,"Střední kmitočty, anglicky Medium Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá SV.",cs
+344,345,"Síť vysílačů využívající více kmitočtů (např. digitální rozhlasová nebo televizní síť), anglicky Multi Frequency Network. Pozn.: Dohoda Ženeva-06, Annex 2, 1.3.14.",cs
+345,346,"Multimediální platforma domácnosti, anglicky Multimedia Home Platform; neúspěšná aplikace, obdoba HbbTV. Byla nasazena v Itálii a Polsku nebo Belgii. Využívána byla také ve Finsku, ovšem upustilo se od ní díky malé poptávce a neúspěšnosti celého projektu. Byla také poměrně drahá.",cs
+346,347,"Námořní identifikační číslo, anglicky Maritime Identification Digits. Pozn.: Jde o tři čísla z MMSI a reprezentuje území nebo geografickou oblast správy, přiděluje ITU.",cs
+347,348,"Multifunkční distribuční systém v letecké dopravě, anglicky Multifunctional Information Distribution System [ECA]",cs
+348,349,"Základní mezinárodní kmitočtová kartotéka ITU, anglicky Master International Frequency Register",cs
+349,350,"Pozemní pohyblivá stanice, anglicky Land mobile station
+Pohyblivý spoj (vysílání pohyblivé stanice), anglicky Mobile Link (Mobile station transmits) [ECA]",cs
+350,351,"Vícestranná jednání, anglicky Multilateral Meeting",cs
+351,352,"Mikrovlnná přistávací soustava, anglicky Microwave Landing System",cs
+352,353,"Mikrovlnné vícebodové distribuční systémy, anglicky Microwave Multipoint Distribution System",cs
+353,354,"Námořní pohyblivá služba (radiokomunikační), anglicky Maritime Mobile Service",cs
+354,355,"Devítimístné jednoznačné identifikační číslo pro námořní pohyblivou službu, anglicky Maritime Mobile Service Identity. Pozn.: Viz také MID.",cs
+355,356,"Družicová námořní pohyblivá služba (radiokomunikační), anglicky Maritime Mobile-Satellite Service",cs
+356,357,"Pohyblivá stanice, anglicky Mobile station",cs
+357,358,"Muž přes palubu (aplikace v námořní pohyblivé službě), anglicky Man over Board",cs
+358,359,"Podle ustanovení 1.115 Plánu přidělení kmitočtových pásem je modulační spoj rádiový spoj z pozemské stanice na daném stanovišti ke kosmické stanici nebo naopak, přenášející informace pro kosmickou radiokomunikační službu jinou než je družicová pevná služba. Toto stanoviště může být v určeném pevném bodě nebo v libovolném pevném bodě uvnitř určených oblastí, např. modulační spoj je v provozován v rámci družicové pevné služby a přenáší signál pro družicovou rozhlasovou službu - družicovou televizi.",cs
+359,360,"Dohoda o porozumění, anglicky Memorandum of Understanding",cs
+360,361,"Expertní skupina pro pohyblivý obraz, anglicky Moving Pictures Experts Group, která vyvíjí kompresní algoritmy a standardy na kódování audiovizuálních informací.",cs
+361,362,"Víceúčelový radar, anglicky Multipurpose Radar",cs
+362,363,"Pohyblivá radiolokační stanice, anglicky Radiolocation Mobile Station",cs
+363,364,"Námořní radionavigační služba (radiokomunikační), anglicky Maritime Radionavigation Service",cs
+364,365,"Družicová námořní radionavigační služba (radiokomunikační), anglicky Maritime Radionavigation-Satellite Service",cs
+365,366,"Minimální nadmořská výška pro radarové vektorování v letectví, anglicky Minimum Radar Vectoring Altitude",cs
+366,367,"(1) Pohyblivá služba (radiokomunikační), anglicky Mobile Service
+(2) Členské státy EU, anglicky Member States
+(3) Lodní stanice, anglicky Ship station",cs
+367,368,"Minimální sektorová nadmořská výška (v letectví), anglicky Minimum Sector Altitude",cs
+368,369,"Námořní bezpečnostní informace, anglicky Maritime Safety Information",cs
+369,370,"Minimum-shift keing",cs
+370,371,"(1) Družicová pohyblivá služba (radiokomunikační), anglicky Mobile Satellite Service
+(2) Družicové pohyblivé služby, anglicky Mobile Satellite Services [ROZHODNUTÍ KOMISE 2007/98/ES)]",cs
+371,372,"Maximální použitelný kmitočet, anglicky Maximum Usable Frequency. Pozn.: Týká se KV pásem.",cs
+372,373,"Služba distribuce obrazu na více míst, anglicky Multipoint Video Distribution Service",cs
+373,374,"Pohyblivý bezdrátový přístup, anglicky Mobile Wireless Access",cs
+374,375,"Oblast hlavních světových letových tras, anglicky Major World Air Route Area",cs
+375,376,"Bezdrátový systém pro přenos multimédií, anglicky Multimedia Wireless System",cs
+377,378,"Národní letecká a kosmická správa, anglicky National Aeronautics and Space Administration (USA)",cs
+378,379,"Severoatlantický pakt, anglicky North Atlantic Treaty Organisation",cs
+379,380,"1) Navigační textové zprávy, anglicky Navigational Text Messages
+2) Úzkopásmový telegrafický systém s přímým tiskem pro předávání navigačních a meteorologických varování a spěšných informací lodím, anglicky Narrow-band direct-printing telegraphy system for transmission of navigational and meteorological warnings and urgent information to ships
+",cs
+380,381,"Úzkopásmová telegrafie s přímým tiskem, anglicky Narrow Band Direct Printing",cs
+381,382,"Nesměrový radiomaják, anglicky Non-Directional Radio Beacon",cs
+382,383,"Šumové číslo, anglicky Noise Figure",cs
+383,384,"Komunikace blízkým polem, anglicky Near Field Communication. Bezdrátová technologie s krátkým dosahem (4 cm a méně) na kmitočtu 13,56 MHz. Aktivní zařízení vyvolá vysílaným rádiovým polem odezvu pasivního zařízení (visačka, nálepka, karta).",cs
+384,385,"Mobilní sítě příští generace, anglicky Next Generation Mobile Networks",cs
+385,386,"Společná dohoda civilních a vojenských složek správ členských zemí Severoatlantické aliance, anglicky NATO Joint Civil/Military Frequency Agreement",cs
+386,387,"Národní kmitočtová tabulka, viz též PPKP",cs
+387,388,"Námořní radionavigační pozemní stanice, anglicky Maritime radionavigation land station",cs
+388,389,"Ne v přímé viditelnosti, anglicky Non Line of Sight",cs
+389,390,"Analogová technologie mobilních sítí, anglicky Nordic Mobile Telephone",cs
+390,391,"1) Národní správa pro oceány a atmosféru, anglicky National Oceanic and Atmospheric Administration
+2) Označení polární meteorologické družice, anglicky Polar METSAT",cs
+391,392,"Negeostacionární družicová dráha, anglicky Non Geostationary Orbit",cs
+392,393,"Radionavigační pohyblivá stanice, anglicky Radionavigation mobile station",cs
+393,394,"Standard barevné analogové televize, anglicky National Television Systems Committee, 525 řádků",cs
+394,395,"Národní kmitočtová tabulka, anglicky National Table of Frequency Allocations",cs
+395,396,"Způsob šíření rádiových vln v KV pásmech, anglicky Near Vertical Incidence Skywave",cs
+396,397,"Nomadický (přenosný) bezdrátový přístup, anglicky Nomadic Wireless Access",cs
+397,398,"Numerická předpověď počasí, anglicky Numerical Weather Prediction",cs
+398,399,"Vysílání z míst mimo studio, anglicky Outside Broadcasting [ECA]",cs
+399,400,"Palubní jednotka, anglicky On-Board Unit",cs
+400,401,"Oceánografická datová stanice, anglicky Oceanographic Data Station",cs
+401,402,"Určování a charakterizace předmětů, anglicky Object Discrimination and Characterization",cs
+402,403,"Oceánograficka datová kontrolní stanice, anglicky Oceanographic data interrogation station",cs
+403,404,"Modulační technika pracující s rozprostřeným spektrem - ortogonální multiplex s kmitočtovým dělením, anglicky Orthogonal Frequency Division Multiplexing",cs
+404,405,"Vícenásobný přístup s kmitočtovým a ortogonálním rozlišením, anglicky Orthogonal Frequency Division Multiple Access",cs
+405,406,"Mezinárodní rozhlasová a televizní organizace, francouzsky Organisation Internationale de Radiodiffusion et de Télévision, anglicky The International Radio and Television Organisation. Pozn.: 1. 1. 1993 sloučena s EBU.",cs
+406,407,"Mimo pásmo, anglicky Out-of-Band",cs
+407,408,"Podle ustanovení 1.34 a 1.37 Plánu přidělení kmitočtových pásem znamená označení (OR) u letecké pohyblivé služby nebo družicové letecké pohyblivé služby komunikace týkající se letové koordinace především mimo národní a mezinárodní letové cesty; anglicky Off Route. Pozn.: Opakem je (R).",cs
+408,409,"Jednání operátorů družicových služeb v pásmu 1,6 GHz, anglicky Operator Review Meetings",cs
+409,410,"Optické bezdrátové komunikace, anglicky Optical Wireless ",cs
+410,411,"Bod-více bodů, anglicky Point-to-Multipoint",cs
+411,412,"1) Bod-bod, anglicky Point-to-Point
+2) Špička - špička (signálu), anglicky Peak-to-Peak",cs
+412,413,"Datový tok související s vysílaným programem, anglicky Programme Associated Data",cs
+413,414,"Standard barevné analogové televize, anglicky Phase Alternate Line (Colour TV standard), 625 řádků",cs
+414,415,"Síť PMR s přístupovým bodem do veřejné sítě, anglicky Public Access Mobile Radio",cs
+415,416,"Přesný přibližovací radar, anglicky Precision Approach Radar
+Pásmo, kmitočtové pásmo. Kmitočtové pásmo je rozsah kmitočtů, který je uveden v Plánu přidělení kmitočtových pásem a přidělen radiokomunikačním službám, nebo rozsah kmitočtů větší, zahrnující minimálně jedno kmitočtové pásmo podle PPKP. Komentář: menší rozsah kmitočtů než příslušné kmitočtové pásmo v PPKP je označován pojmem úsek.",cs
+416,417,"Pulsně kódová modulace, anglicky Pulse Code Modulation",cs
+417,418,"Osobní komunikační síť, anglicky Personal Communication Network",cs
+418,419,"Předurčený oblouk na geostacionární dráze, anglicky PreDetermined Arc",cs
+419,420,"Nejbližší bod oběžné dráhy družice",cs
+420,421,"Hustota výkonového toku, anglicky Power Flux Density",cs
+421,422,"Pseudolity (Pseudo satelity) jsou na zemi umístěné rádiové vysílače, které vysílají navigační signály obdobně jako družicová radionavigace. Jejich účelem je doplňovat družicovou radionavigaci a vysílají ve stejných kmitočtových pásmech 1164-1215 MHz, 1215-1300 MHz a 1559-1610 MHz jako družicové systémy.",cs
+422,423,"Osobní lokalizační maják, anglicky Personal Locator Beacon",cs
+423,424,"Komunikace po energetické síti, anglicky Powerline Communications",cs
+424,425,"Fázová modulace, anglicky Phase Modulation",cs
+425,426,"Soukromé nebo firemní pohyblivé rádiové sítě a spoje, anglicky Professional Mobile Radio/Private Mobile Radio",cs
+426,427,"Služby spojené s programem a zvláštními událostmi (hudební vystoupení, veřejná shromáždění), anglicky Programme Making and Special Events services",cs
+427,428,"ITU konference vládních zmocněnců, ITU Plenipotentiary Conference",cs
+428,429,"Ochrana veřejnosti a krizové komunikace, anglicky Public Protection and Disaster Relief",cs
+429,430,"Plán přidělení kmitočtových pásem, viz též NKT",cs
+430,431,"Přesná prostorová navigace (v letectví), anglicky Precision Area Navigation",cs
+431,432,"Klíčování fázovým posunem, anglicky Phase Shift Keying",cs
+432,433,"Primární přehledový radar, anglicky Primary Surveillance Radar",cs
+433,434,"Projektový tým v rámci struktur CEPT, anglicky Project Team",cs
+434,435,"Plán využití rádiového spektra (více)",cs
+435,436,"Plošný firemní paging, andlicky Private Wide Area Paging [ECA]",cs
+436,437,"Systémy profesionálních bezdrátových mikrofonů, anglicky Professional Wireless Microphone Systems",cs
+437,438,"Čtyřstavová amplitudová modulace, anglicky Quadrature Amplitude Modulation",cs
+438,439,"Parametr vyjadřující kvalitu služby, anglicky Quality of Service",cs
+439,440,"Čtyřstavová modulace klíčování fázovým posunem, anglicky Quadrature Phase Shift Keying",cs
+440,441,"Podle ustanovení 1.33 a 1.36 Plánu přidělení kmitočtových pásem znamená označení (R) u letecké pohyblivé služby nebo družicové letecké pohyblivé služby komunikace týkající se bezpečnosti a pravidelnosti letu především na národních a mezinárodních letových cestách. R = route. Pozn.: Opakem je (OR).",cs
+441,442,"(1) Radiokomunikační shromáždění ITU, anglicky Radiocommunication Assembly
+(2) Radioastronomie, anglicky Radio Astronomy [ECA]
+(3) Radarový výškoměr, anglicky Radar Altimeter",cs
+442,443,"Radiotelefonie nebo rozhlas s amplitudovou modulaci s redukovanou nosnou vlnou",cs
+443,444,"Radarový maják, anglicky Radio Beacon",cs
+444,445,"Poradní skupina radiokomunikací ITU-R, anglicky Radiocommunication Advisory Group",cs
+445,446,"Radioastronomická služba, anglicky Radio Astronomy Service. Viz též CRAF.",cs
+446,447,"Námořní záchranné a koordinační středisko, anglicky Rescue Coordination Center
+Regionální společenství na poli komunikací, anglicky Regional Commonwealth in the Field of Communications. Pozn.: Zahrnuje některé státy bývalého Sovětského svazu.",cs
+447,448,"Oblast regionálních a národních letových tras, anglicky Regional And Domestic Air Route Area. [Dodatek 27 Řádu]",cs
+448,449,"1) Služba rádiového určování, anglicky Radiodetermination Service
+2) Datová služba poskytovaná VKV rozhlasem (cca 730 bit/s), anglicky Radio Data Service nebo Radio Data System",cs
+449,450,"Družicová služba rádiového určování, anglicky Radiodetermination-Satellite Service",cs
+450,451,"Doporučení (druh dokumentu), anglicky Recommendation",cs
+451,452,"Zpráva (druh dokumentu), anglicky report",cs
+452,453,"Rezoluce (druh dokumentu), anglicky Resolution",cs
+453,454,"Rádiová frekvence, anglicky Radio Frequency [Rec. ITU-R M.1371-3]",cs
+454,455,"Rádiové identifikační zařízení, anglicky Radio Frequency Identification Device",cs
+455,456,"Systém říčních informačních služeb, anglicky River Information System",cs
+456,457,"Výbor pro slučitelnost a bezpečnost na železnici, anglicky Railway Interoperability and Safety Committee",cs
+457,458,"Rádiová lokální síť, anglicky Radio Local Area Network",cs
+458,459,"Radiolokační služba, anglicky Radiolocation Service",cs
+459,460,"Družicová radiolokační služba, anglicky Radiolocation-Satellite Service",cs
+460,461,"Námořní radionavigační pohyblivá stanice, anglicky Maritime radionavigation mobile station",cs
+461,462,"Radionavigační pozemní stanice, anglicky Radionavigation land station",cs
+462,463,"Prostorová navigace (v letectví), anglicky Area Navigation",cs
+463,464,"Radionavigační služba (radiokomunikační), anglicky RadioNavigation Service",cs
+464,465,"Družicová radionavigační služba (radiokomunikační), anglicky RadioNavigation Satellite Service",cs
+465,466,"Omezený průkaz operátora, anglicky Restricted Operator's Certificate",cs
+466,467,"Zemské, pouze přijímací stanice v družicových komunikacích, anglicky Receive Only Earth Stations",cs
+467,468,"Jednací řád, anglicky Rules of Procedure",cs
+468,469,"Dálkově pilotované letadlo, anglicky Remotely Piloted Aircraft",cs
+469,470,"Dálkové pilotní středisko (UAV), anglicky Remote Piloting Centre",cs
+470,471,"rr = rádio reléové spoje, RR = Radiokomunikační řád, anglicky Radio Regulations [Rec. ITU-R M.1371-3]",cs
+471,472,"Výbor pro radiokomunikační řád ITU-R, anglicky Radio Regulations Board",cs
+472,473,"Radiolokační systém navigace na krátkou vzdálenost, anglicky Radiolocation System for Short Range Navigation, rusky Radiolokacijnaja Sistěma Bližševo Naveděnija",cs
+473,474,"Výbor Evropské komise pro rádiové spektrum, anglicky Radio Spectrum Committee",cs
+474,475,"Přístroj pro měření rychlosti, anglicky Radio Speed Meter [ECC Rep 134]",cs
+475,476,"Radarový detekční a měřící systémy, anglicky Radar Sensing and Measurement System",cs
+476,477,"Radarový odpovídač, anglicky Responder Beacon",cs
+477,478,"Skupina pro politiku rádiového spektra, pomocný orgán Evropské komise, anglicky Radio Spectrum Policy Group",cs
+478,479,"Traťový přehledový radar, anglicky en-Route Surveillance Radar",cs
+479,480,"Indikace intenzity přijímaného signálu, anglicky Received Signal Strength Indication",cs
+480,481,"Silniční zařízení, anglicky Road Side Unit",cs
+481,482,"Radiotechnická komise pro letectví, anglicky Radio Technical Commission for Aeronautics",cs
+482,483,"Koncové rádiové a telekomunikační zařízení, anglicky Radio&Telecommunications Terminal Equipment",cs
+483,484,"Telematika v silniční dopravě a silničním provozu, anglicky Road Transport and Traffic Telematics",cs
+484,485,"Přijímač, anglicky Receiver [Rec. ITU-R M.1371-3]",cs
+485,486,"Meteorologická pomocná pohyblivá stanice, anglicky Meteorological aids mobile station",cs
+486,487,"Detekce a vyhnutí (u bezpilotních letounů UAV), anglicky Sense and Avoid",cs
+487,488,"Pomocné aplikace pro tvorbu rozhlasového a televizního vysílání, anglicky Service Ancillary for Broadcasting",cs
+488,489,"Pomocné aplikace pro tvorbu rozhlasového a televizního vysílání nebo pro tvorbu programu, anglicky Service Ancillary for Broadcasting/Service Ancillary for Program. Pozn.: SAB - jen příprava TV programu a TV vysílání, zahrnuje i ENG/OB. SAP - divadlo, koncerty pop music, sport, a další.",cs
+489,490,"Pomocné aplikace pro tvorbu programu, anglicky Service Ancillary for Program",cs
+490,491,"1) Pátrání a záchrana, anglicky Search and Rescue
+2) Radar se syntetickou aperturou, anglicky Synthetic Aperture Radar",cs
+491,492,"Standardní a doporučené postupy, anglicky Standards And Recommended Practices",cs
+492,493,"Družicové navádění pro pátrání a záchranu, anglicky Search and Rescue Satellite Aided Tracking (viz COSPAS)",cs
+493,494,"Radarová odpovídací zařízení pro účely pátrání a záchrany, anglicky Search and Rescue Transponder",cs
+494,495,"Družicová komunikace, anglicky Satellite Communications",cs
+495,496,"Systém se satelitním rozšířením, anglicky Satellite Based Augmentation System",cs
+496,497,"anglicky Surface-Based Radar",cs
+497,498,"Zvláštní výbor ITU-R pro záležitostí regulační a postupů (v rámci přípravy na CPM a WRC), anglicky Special Committee on regulatory/procedural matters",cs
+498,499,"Družicový digitální rozhlas, anglicky Satellite Digital Audio Broadcasting",cs
+499,500,"1) Systém družicového rozhlasového vysílání, anglicky Satellite Digital Radio
+2) Rádiové zařízení se softwarově řízenými parametry, anglicky Software Defined Radio",cs
+500,501,"Sestupný směr, anglicky Space-to-Earth direction",cs
+501,502,"Standard barevné analogové televize, francouzsky Séquentiel Couleur á Mémoire",cs
+502,503,"Jednotné evropské nebe, anglicky Single European Sky. Týká se řízení letového provozu.",cs
+503,504,"Výzkumný program pro jednotné evropské řízení letového provozu, anglicky Single European Sky ATM Research Programme",cs
+504,505,"Skupina pro koordinaci kmitočtů ve vesmíru, anglicky Space Frequency Coordination Group. ITU-R uznaný koordinační orgán pro kosmické vědecké služby, zal. 1979, členy jsou národní kosmické agentury některých st.",cs
+505,506,"Síť synchronizovaných vysílačů vysílajících identický signál na stejném kmitočtu (např. digitální rozhlasová nebo televizní síť), anglicky Single Frequency Network [Dohoda Ženeva-06, Annex 2, 1.3.15]",cs
+506,507,"Studijní skupina ITU-R, anglicky Study Group",cs
+507,508,"Řídící skupina pro koordinaci rádiových kmitočtů, anglicky Steering Group on Radio Frequency Coordination",cs
+508,509,"Poměr signálu k rušení a šumu, anglicky Signal to Interference and Noise Ratio",cs
+509,510,"Družicový interaktivní terminál, anglicky Satellite Interactive Terminal",cs
+510,511,"Super vysoké kmitočty, anglicky Super High Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá SKV.",cs
+511,512,"Super krátké vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá SHF.",cs
+512,513,"Meteorologická pomocná pozemní stanice, anglicky Meteorological aids land station",cs
+513,514,"Znečištění a koncentrace soli v oceánech, anglicky Soil Moisture and Ocean Salinity",cs
+514,515,"Radar pro řízení pohybů na pohybové ploše, anglicky Surface Movement Radar",cs
+515,516,"Poměr signálu k šumu, anglicky Signal-to-Noise ratio. Viz také SNR.",cs
+516,517,"Družicové spoje pro předávání zpravodajských příspěvků, anglicky Satellite News Gathering",cs
+517,518,"Poměr signál/šum, anglicky Signal to Noise Ratio",cs
+518,519,"Mezinárodní konvence pro záchranu životů na mořích, anglicky International Convention for the Safety of Life at Sea",cs
+519,520,"Služba kosmického provozu (radiokomunikační), anglicky Space Operation Service",cs
+520,521,"Samoorganizovaný časově dělený vícenásobný přístup, anglicky Self-Organized Time Division Multiple Access",cs
+521,522,"Systém družicové osobní komunikace, anglicky Satellite Personal Communication System",cs
+522,523,"Zařízení krátkého dosahu, anglicky Short Range Device",cs
+523,524,"Automobilní radar krátkého dosahu, anglicky Automotive Short Range Radar",cs
+524,525,"Služba kosmického výzkumu (radiokomunikační), anglicky Space Research Service",cs
+525,526,"Stanice kmitočtových normálů a časových signálů, anglicky Standard frequency and time signal station",cs
+526,527,"Systémy lodní bezpečnosti a výstrahy, anglicky Ship Security and Alerting Systems",cs
+527,528,"Druh vysílání s jedním postraním pásmem, anglicky Single Side Band",cs
+528,529,"Sekundární přehledový radar, anglicky Secondary Surveillance Radar",cs
+529,530,"Družicový uživatelský terminál, anglicky Satellite User Terminal",cs
+530,531,"Střední vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá MF.",cs
+531,532,"Systém taktické letecké navigace, anglicky Tactical Aeronautical Navigation",cs
+532,533,"Komunikační systém s celkovým přístupem, anglicky Total Access Communication System",cs
+533,534,"Technologie z rodiny TETRA, anglicky TETRA Advanced Packed Data Service",cs
+534,535,"Výbor pro posuzování shody a dozor nad trhem v oblasti telekomunikací Evropské komise, anglicky Telecommunication Conformity Assesment and Market Surveillance Committee",cs
+535,536,"Dálkové měření a ovládání, anglicky Telemetry and Command",cs
+536,537,"Systém pro digitální zemské rozhlasové vysílání, anglicky Terrestrial-Digital Audio Broadcasting",cs
+537,538,"Duplexní provoz s časovým dělením, anglicky Time Division Duplex",cs
+538,539,"Časově dělené multiplexování, anglicky Time Division Multiplexing",cs
+539,540,"Druh provozu s časovým dělením přístupu, anglicky Time Division Multiple Access",cs
+540,541,"Systém digitálního zemského multimediálního vysílání v pohyblivých sítích, anglicky Terrestrial Digital Multimedia Broadcasting",cs
+541,542,"Vylepšené datové služby TETRA, anglicky TETRA Enhanced Data Services",cs
+542,543,"Přemístitelné pozemské stanice, anglicky Transportable Earth Stations. Stanice jsou typicky používané pro družicové předávaní zpravodajství (Satellite News Gathering (SNG), tj. živé přenosy z míst událostí).",cs
+543,544,"Druh zemského rádiového systému, anglicky Terrestrial Trunked Radio",cs
+544,545,"Digitální PMR standard výrobce EADS Telecom (dříve MATRA)",cs
+545,546,"Systém veřejné korespondence s letadly, anglicky Terrestrial Flight Telecommunication System",cs
+546,547,"Pracovní skupina zřízenou jednorázově pro určitý úkol, anglicky Task Group. Viz též JTG.",cs
+547,548,"Časově neměnné zesílení, anglicky Time-invariant Gain",cs
+548,549,"Radar pro zjišťování hladiny v nádržích, anglicky Tank Level Probing Radar [ECA]",cs
+549,550,"Řízení vysílacího výkonu, anglicky Transmit Power Control",cs
+550,551,"Zemské rádiové aplikace schopné poskytovat služby elektronických komunikací, anglicky Terrestrial Radio Applications Capable of Providing Electronic Communications Services",cs
+551,552,"Taktické rádio reléové spoje, anglicky Tactical Radio Relays [ECA]",cs
+552,553,"Koncová stanice, terminál, anglicky Terminal Station",cs
+553,554,"Telekomunikační úřad ITU, anglicky Telecommunication Standardization Bureau",cs
+554,555,"Telemetrie, sledování a povely, anglicky Telemetry, Tracking and Commands",cs
+555,556,"Televize, anglicky Television",cs
+556,557,"Časově proměnné zesílení, anglicky Time-Variant Gain",cs
+557,558,"Televizní vysílání z míst mimo studia, anglicky Television Outside Broadcast",cs
+558,559,"Zemská bezdrátová interaktivní multimédia, anglicky Terrestrial Wireless Interactive Multimedia",cs
+559,560,"Vysílač, anglicky Transmitter [Rec. ITU-R M.1371-3]",cs
+560,561,"Bezpilotní letadlo, anglicky Unmanned Aircraft",cs
+561,562,"Pokrytí městských oblastí, anglicky Urban Area Coverage",cs
+562,563,"Řídící stanice bezpilotního letadla, anglicky Unmanned Aircraft Control Station",cs
+563,564,"Bezpilotní systémy, anglicky Unmanned Aircraft Systems",cs
+564,565,"Standardní universální přístupová stanice (v letectví), anglicky Universal Access Transceiver",cs
+565,566,"Letecký prostředek bez posádky, anglicky Unmanned Air Vehicle",cs
+566,567,"Zaměřovací stanice pracující na UKV, anglicky Ultra High Frequency Direction-Finding Station",cs
+567,568,"Ultra vysoké kmitočty, anglicky Ultra High Frequency. Pozn. Jako česká zkratka označující stejné vlny se používá UKV.",cs
+568,569,"Mezinárodní železniční unie, anglicky International Railways Union",cs
+569,570,"Ultra krátké vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá UHF.",cs
+570,571,"V družicové komunikaci vzestupný směr, tj. ze Země k družici, v pohyblivých sítích směr od terminálu k základnové stanici, anglicky Uplink",cs
+571,572,"Zvířecí implantáty velmi nízkého výkonu, anglicky Ultra Low Power Animal Implant Devices",cs
+572,573,"Lékařské aktivní implantáty velmi nízkého výkonu, anglicky Ultra Low Power Active Medical Implants",cs
+573,574,"Lékařské membránové implantáty velmi nízkého výkonu, anglicky Ultra Low Power Medical Membrane Implants",cs
+574,575,"Univerzální mobilní terestrický systém pro pohyblivé komunikace, anglicky Universal Mobile Terrestrial System. Zpráva CPM uvádí Universal Mobile Telecommunications System.",cs
+576,577,"Univerzální sériová sběrnice, anglicky Universal Serial Bus",cs
+577,578,"Kmitočtový úsek je rozsah kmitočtů menší než příslušné kmitočtové pásmo uvedené v Národní kmitočtové tabulce.",cs
+578,579,"Koordinovaný světový čas. Podle ustanovení 1.14 Radiokomunikačního řádu (i Národní kmitočtové tabulky) je koordinovaný světový čas časomíra založená na sekundě a definovaná Doporučením ITU-R TF.460-6; pro většinu praktických použití spojených s aplikací Radiokomunikačního řádu je čas UTC rovnocenný střednímu slunečnímu času na základním poledníku (zeměpisná délka 0°), dříve označovanému jako GMT.",cs
+579,580,"UMTS zemský rádiový přístup, anglicky UMTS Terrestrial Radio Access",cs
+580,581,"Aplikace využívající velmi široké pásmo, anglicky Ultra Wide Band",cs
+581,582,"Zaměřovací stanice pracující na VKV, anglicky Very High Frequency Direction-Finding Station",cs
+582,583,"VKV datový spoj, anglicky VHF Data Link [Rec. ITU-R M.1371-3]",cs
+583,584,"Velmi dlouhé vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá VLF.",cs
+584,585,"Dobrovolná skupinu expertů, anglicky Voluntary Group of Experts",cs
+585,586,"Velmi vysoké kmitočty, anglicky Very High Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá VKV.",cs
+586,587,"Velmi krátké vlny. Pozn.: Jako anglická zkratka označující stejné vlny se používá VHF.",cs
+587,588,"Radioastronomické pozorování spektrálních čar, anglicky Very Long Baseline Interferometry",cs
+588,589,"Velmi nízké kmitočty, anglicky Very Low Frequency. Pozn.: Jako česká zkratka označující stejné vlny se používá VDV.",cs
+589,590,"Vlnová délka (λ) je vzdálenost, kterou urazí elektromagnetické vlnění za dobu jednoho kmitu. Rádiová vlna se šíří v prostoru rychlostí světla (c) 300 000 km/s. Frekvence = kmitočet (f) je počet vln za 1 sekundu.
+λ = c/f (m, ms<sup>-1</sup>, Hz)
+f = c/? (Hz, ms<sup>-1</sup>, m)
+kde c = 3 × 10<sup>8</sup> ms<sup>-1</sup>",cs
+590,591,"Přenos hlasu pomocí internetového protokolu (paketově), anglicky Voice over Internet Protocol",cs
+591,592,"VKV všesměrový radiomaják, anglicky VHF Omnidirectional Radio Range",cs
+592,593,"Kombinace zařízení VOR a TACAN, anglicky VOR and TACAN combination",cs
+593,594,"Vozidlový radar, anglicky Vehicle Radar [ECC Rep 134]",cs
+594,595,"Terminál s velmi malou anténou, anglicky Very Small Aperture Terminal",cs
+595,596,"(1) Lodní přepravní služby, anglicky Vessel traffic services [Rec. ITU-R M.1371-3]
+(2) Lodní radarový systém, anglicky Vessel Traffic System (radar) [ECA]",cs
+596,597,"Bezdrátové avionické komunikace uvnitř letadla, anglicky Wireless Avionic Intra-Aircraft Communications",cs
+597,598,"Politika bezdrátového přístupu k službám elektronických komunikací, anglicky Wireless Access Policy for Electronic Communications Services",cs
+598,599,"Světová správní radiokomunikační konference, anglicky World Administrative Radio Conference",cs
+599,600,"Bezdrátové přístupové systémy (WAS), jejichž součástí jsou rádiové místní sítě (RLAN), anglicky Wireless Access Systems/Radio Local Area Network",cs
+600,601,"Širokopásmový vícenásobný přístup rozlišovaný kódem, anglicky Wideband Code Division Multiple Access",cs
+601,602,"Druh bezdrátové technologie pro bezdrátové LAN založené na standardech IEEE 802.11",cs
+602,603,"Systém pro mikrovlnné přístupové sítě, anglicky Worldwide Interoperability for Microwave Access",cs
+603,604,"Pracovní skupina, anglicky Working Group",cs
+604,605,"Pracovní skupina CEPT věnující se otázkám správy kmitočtů, anglicky Working Group Frequency Management",cs
+605,606,"Světový zeměměřičský systém, anglicky World Geodetic System [Rec. ITU-R M.1371-3]",cs
+606,607,"Širokopásmový režim s nízkou aktivitou, anglicky Wideband Low Activity Mode [CEPT Rep.37]",cs
+607,608,"Bezdrátová lokální síť, anglicky Wireless LAN",cs
+608,609,"Bezdrátová místní smyčka, anglicky Wireless Local Loop",cs
+609,610,"Světová meteorologická organizace, anglicky World Meteorological Organization",cs
+610,611,"Pracovní podskupina, anglicky Working Party",cs
+611,612,"Radar pro zkoumání zdí apod., anglicky Wall-Probing Radar. Radar pro zkoumání zdí je zobrazovací systém s čidlem indikujícím poruchy pole, určený k detekci předmětů obsažených ve zdech nebo k určení fyzikálních vlastností zdí. Zdmi jsou míněny betonové struktury, mostní pilíře, zdi v dolech nebo jiné fyzické struktury, které jsou dostatečně hutné a silné, aby absorbovaly většinu signálu vysílaného systémem. Pozn.: Radar využívá UWB technologii.",cs
+612,613,"Osobní bezdrátová síť, anglicky Wireless Personal Area Network",cs
+613,614,"Světová radiokomunikační konference ITU, anglicky World Radiocommunication Conference",cs
+614,615,"Světová radiokomunikační konference 2000 (Istanbul, Turecko), anglicky World Radiocommunication Conference 2000",cs
+615,616,"Světová radiokomunikační konference 2003 (Ženeva, Švýcarsko), anglicky World Radiocommunication Conference 2003",cs
+616,617,"Světová radiokomunikační konference 2007 (Ženeva, Švýcarsko), anglicky World Radiocommunication Conference 2007",cs
+617,618,"Světové zasedání k informační společnosti, anglicky World Summit on the Information Society",cs
+618,619,"Světová konference pro rozvoj telekomunikací, anglicky World Telecommunication Development Conference, pozn. konference sektoru ITU-D",cs
+619,620,"Světová obchodní organizace, anglicky World Trade Organisation",cs
+620,621,"Světové telekomunikační shromáždění, anglicky World Telecommnication Standardization Assembly",cs
+621,622,"1) Celosvětová síť internetových serverů, anglicky World Wide Web
+2) Světové sledování počasí, anglicky World Weather Watch",cs
+622,623,"X-stavová kvadraturní amplitudová modulace, anglicky Quadrature Amplitude Modulation (X states)",cs
+624,626,"Některé dohody v komunikacích používají ""Z"" nebo ""Zulu"" čas jako označení času UTC. Vychází přitom z označení Z pro časovou zónu se středem na nultém poledníku [Rec. ITU-R TF.686-2], viz UTC.",cs
+625,627,"Světová radiokomunikační konference 2012 (Ženeva, Švýcarsko), anglicky World Radiocommunication Conference 2012",cs
+626,629,"Letecký informační oběžník (zveřejňován Řízením letového provozu), anglicky Air Information Circullars",cs
+627,630,"Evropský systém řízení železniční dopravy, anglicky European Rail Traffic Management System",cs
+628,631,"Rádiová část sítí LTE-A",cs
+629,632,"10. verze specifikace rádiové technologie 3GPP, technologie 4. generace, LTE Advanced, v.t. LTE.",cs
+630,633,"Obrazové kompresní kodeky MPEG",cs
+632,635,"Princip sdílení spektra, anglicky Licensed/Authorised Shared Access",cs
+633,636,"Viz LSA/ASA",cs
+634,637,"Stroj-stroj, anglicky Machine-to-Machine. Nepersonální komunikace mezi zařízením. V PVRS provozně shodné s pojmy „datové spoje“, „datové stanice“, „povelové spoje/stanice“, „datová komunikace přenosných stanic“, „stanice pro přenos dat“. Součást Internetu věcí (IoT).",cs
+635,638,"Zařízení využívající bílá místa ve spektru, anglicky White Space Devices",cs
+1024,408,"Off Route. According to the provisions 1.34 and 1.37 of Radio Regulations, (OR) means  an aeronautical mobile service or aeronautical mobile-satellite service intended for communications, including those relating to flight coordination, primarily outside national or international civil air routes.",en
+1025,441,"Route. According to provisions 1.33 and 1.36 of the Radio Regulations (R) means an aeronautical mobile service or aeronautical mobile-satellite service reserved for communications relating to safety and regularity of flight, primarily along national or international civil air routes.",en
+1026,13,Analog-to-Digital,en
+1027,5,"Automated Aircraft Reporting System",en
+1028,6,"(1) Adaptive Antenna System
+(2) Advanced Antenna System",en
+1029,7,"Aircraft Communications Addressing and Reporting System",en
+1030,8,"Area Control Centre",en
+1031,10,"Area Control Centre/Lower",en
+1032,9,"Area Control Centre/Upper",en
+1033,11,Acknowledge,en
+1034,12,"Aeronautical Communication Panel",en
+1035,14,"Analog-to-Digital Converter",en
+1036,15,"Advanced Earth Observation Satellite",en
+1037,16,"Automatic Data Processing",en
+1038,17,"Automatic Data Processing Equipment",en
+1039,18,"Astra Digital Radio",en
+1040,19,"Automatic Dependant Surveillance (Aeronautical)",en
+1041,20,"Aircraft Earth Station",en
+1042,21,"Adaptive Frequency Agility",en
+1043,22,"Automatic Frequency Control",en
+1044,23,"Automatic Forecasting and Observing System",en
+1045,24,"Air Ground Air",en
+1046,25,"Automatic Gain Control",en
+1047,629,"Air Information Circullars",en
+1048,26,"Automatic Identification System",en
+1049,27,"Automatic Identification System - Search And Rescue Transmitter",en
+1050,28,"Aeronautical Radionavigation Land Station",en
+1051,29,"Automatic Level Control",en
+1052,30,"Assistive Listening Devices",en
+1053,31,"Atacama Large Millimetre/Submillimetre Array",en
+1054,32,"Airborne Landing System/Aircraft Landing System",en
+1055,33,"(1) Aeronautical Radionavigation Mobile Station
+(2) Amplitude Modulation
+",en
+1056,36,"Aeronautical Mobile (R) Service",en
+1057,623,"Quadrature Amplitude Modulation (X states)",en
+1058,622,"1) World Wide Web
+2) World Weather Watch",en
+1059,621,"World Telecommnication Standardization Assembly",en
+1060,620,"World Trade Organisation",en
+1061,619,"World Telecommunication Development Conference; note: Telecommunication Development Sector (ITU-D)",en
+1062,593,"VOR and TACAN combination",en
+1063,594,"Vehicle Radar",en
+1064,595,"Very Small Aperture Terminal",en
+1065,596,"(1) Vessel traffic services
+(2) Vessel Traffic System (radar)",en
+1066,597,"Wireless Avionic Intra-Aircraft Communications",en
+1067,598,"Wireless Access Policy for Electronic Communications Services",en
+1068,599,"World Administrative Radio Conference",en
+1069,600,"Wireless Access Systems/Radio Local Area Network",en
+1070,601,"Wideband Code Division Multiple Access",en
+1071,604,"Working Group",en
+1072,605,"Working Group Frequency Management",en
+1073,606,"World Geodetic System",en
+1074,603,"Worldwide Interoperability for Microwave Access",en
+1075,607,"Wideband Low Activity Mode",en
+1076,608,"Wireless LAN",en
+1077,609,"Wireless Local Loop",en
+1078,610,"World Meteorological Organization",en
+1079,611,"Working Party",en
+1080,613,"Wireless Personal Area Network",en
+1081,612,"Wall-Probing Radar",en
+1082,614,"World Radiocommunication Conference",en
+1083,616,"World Radiocommunication Conference 2003",en
+1084,617,"World Radiocommunication Conference 2007",en
+1085,627,"World Radiocommunication Conference 2012",en
+1086,615,"World Radiocommunication Conference 2000",en
+1087,638,"White Space Devices",en
+1088,618,"World Summit on the Information Society",en
+1089,543,"Transportable Earth Stations",en
+1090,544,"Terrestrial Trunked Radio",en
+1091,546,"Terrestrial Flight Telecommunication System",en
+1092,547,"Task Group. See also JTG",en
+1093,548,"Time-invariant Gain",en
+1094,549,"Tank Level Probing Radar",en
+1095,550,"Transmit Power Control",en
+1096,551,"Terrestrial Radio Applications Capable of Providing Electronic Communications Services",en
+1097,552,"Tactical Radio Relays",en
+1098,553,"Terminal Station",en
+1099,554,"Telecommunication Standardization Bureau",en
+1100,555,"Telemetry, Tracking and Commands",en
+1101,556,Television,en
+1102,557,"Time-Variant Gain",en
+1103,558,"Television Outside Broadcast",en
+1104,559,"Terrestrial Wireless Interactive Multimedia",en
+1105,560,Transmitter,en
+1106,561,"Unmanned Aircraft",en
+1107,562,"Urban Area Coverage",en
+1108,563,"Unmanned Aircraft Control Station",en
+1109,564,"Unmanned Aircraft Systems",en
+1110,565,"Universal Access Transceiver",en
+1111,566,"Unmanned Air Vehicle",en
+1112,567,"Ultra High Frequency Direction-Finding Station",en
+1113,568,"Ultra High Frequency",en
+1114,569,"Iternational Railways Union",en
+1115,571,Uplink,en
+1116,572," Ultra Low Power Animal Implant Devices",en
+1117,573,"Ultra Low Power Active Medical Implants",en
+1118,575,"Universal Mobile Terrestrial System/Universal Mobile Telecommunications System",en
+1119,591,"Voice over Internet Protocol",en
+1120,574,"Ultra Low Power Medical Membrane Implants",en
+1122,577,"Universal Serial Bus",en
+1123,580,"UMTS Terrestrial Radio Access",en
+1124,581,"Ultra Wide Band",en
+1125,582,"Very High Frequency Direction-Finding Station",en
+1126,583,"VHF Data Link",en
+1127,585,"Voluntary Group of Experts",en
+1128,592,"VHF Omnidirectional Radio Range",en
+1129,578,,en
+1130,47,"APP = Appendix of the ITU Radio Regulations, App. = Approach Control",en
+1131,294," Intellectual Property Rights",en
+1132,295,"Industrial, Scientific and Medical Applications",en
+1133,296,"International Organization for Standardization",en
+1134,297,"Internet Service Provider",en
+1135,299,"(1) Inter-Satellite Service
+(2) International Space Station",en
+1136,300,"Intelligent Transport Systems",en
+1137,308,"Joint Task Group",en
+1138,313,"Local Area Network",en
+1139,310,"Kilobits per Second",en
+1140,311,"Kennedy Space Center",en
+1141,326,"Low Power Device",en
+1142,302,"International Telecommunication Union",en
+1143,316,"Low Earth Orbit",en
+1144,314,"Listen Before Talk",en
+1145,315,"Low Duty Cycle",en
+1146,331,"Long Term Evolution of the 3GPP radio technology",en
+1147,327,"Level Probing Radar",en
+1148,317,"Launch and Early Operations Phase",en
+1149,339,"Terrestrial Mobile Multimedia Multicast-Forward Link Only",en
+1150,325,"Low Power-Active Medical Implant",en
+1151,318,"Low E.i.r.p. Satellite Terminals",en
+1152,322,"Land Mobile Service",en
+1153,309,"Joint Tactical Information and Distribution System",en
+1154,321,Localizer,en
+1155,329,"Long-Range Identification and Tracking",en
+1156,334,"Maritime Mobile Access and Retrieval System",en
+1157,319,"Low Frequency",en
+1158,333,"Aircraft Station",en
+1159,338,"Mobile Communication on board Vessel",en
+1160,330,"Large Screen Digital Imagery",en
+1161,632,"LTE Advanced",en
+1162,328,"Radiolocation Land Station",en
+1163,196,"European Organization for the Exploitation of Meteorological Satellites",en
+1164,197,"European Organization for Civil Aviation Equipment",en
+1165,205,"Fixed Access Time Division Multiple Access",en
+1166,198,"European Telecommunications Satellite Organisation",en
+1167,199,"Extra Vehicular Activity",en
+1168,210,"Frequency Division Duplex",en
+1169,221,"Future Public Land Mobile Telecommunications System",en
+1170,244,"General Packet Radio Service",en
+1171,219,"Frequency Modulation",en
+1172,212," Forward Error Correction",en
+1173,209,"Aeronautical Station in the Aeronautical Mobile (R) Service",en
+1174,208,"Federal Communications Commission",en
+1175,237,"Greenwich Mean Time",en
+1176,211,"Frequency Division Multiplexing",en
+1177,233,"Global Orbiting Navigation Satellite System",en
+1178,223,"Free Space Optical Communications",en
+1179,243,"Ground-Probing Radar",en
+1180,232,"Geostationary Earth Orbit",en
+1181,236,"Gaussian Minimum-Shift Keying",en
+1182,245,"Global Positioning System",en
+1183,225,"File Transfer Protocol",en
+1184,231,"Ground Based Synthetic Aperture Radar",en
+1185,227,"Fixed Wireless System",en
+1186,147,"Direct Sequence Spread Spectrum",en
+1187,150,"Digital Terrestrial Television",en
+1188,148,"Data Terminal Equipment",en
+1189,149,Direct-to-Home,en
+1190,152,"Digital Video Broadcasting-Handheld",en
+1191,153,"Digital Video Broadcasting Satellite services to Handheld devices (SH) below 3 GHz [ETSI BROADCAS TS 102 585 V1.1.1]",en
+1192,157,"European Brodcasting Union",en
+1193,154," Digital Video Broadcasting-Terrestrial",en
+1194,170,Extended-GSM,en
+1195,189,"Earth-to-space direction",en
+1196,155,"European Aeronautical Common Position",en
+1197,156,"Electronic Article Surveillance",en
+1198,162,"Electronic Communications Services",en
+1199,160,"Electronic Communications Committee of the CEPT ",en
+1200,164,"Earth Exploration Satellite",en
+1201,161,"European Common Proposal",en
+1202,163,"European Committee for Regulatory Telecommunications Affairs",en
+1203,175,"Emergency Location Beacon-Aircraft",en
+1204,180,"Environmental Satellite",en
+1205,165," Earth Exploration-Satellite Service",en
+1206,176,"Emergency Locator Transmitter",en
+1207,172,"Extremely High Resolution Imagery",en
+1208,166,"ECO (European) Frequency Information System",en
+1209,168,"European Free Trade Association",en
+1210,167,"Electronic Field Production",en
+1211,177,"Electromagnetic Compatability",en
+1212,178,"Electromagnetic Interference",en
+1213,169,"European Geostationary Navigation Overlay Service",en
+1214,192,"European Telecommunications Office",en
+1215,44,"1) Aerodome Obstacle Chart
+2) Aeronautical Operational Control",en
+1216,45,"Advance Publication Information",en
+1217,34,"Aircraft Meteorological Data Relay",en
+1218,35,"Asymmetrical Modulation and Coding Scheme",en
+1219,37,"Aeronautical Mobile Service",en
+1220,38,"Aeronautical Mobile - Satellite (Off-Route) Service",en
+1221,39," Aeronautical Mobile - Satellite (Route) Service",en
+1222,43,"Air Navigation Service Provider",en
+1223,42,"American National Standards Institute",en
+1224,41,"Aeronautical Mobile Telemetry",en
+1225,40," Aeronautical Mobile Satellite Service",en
+1226,48,"Asia-Pacific Telecommunity",en
+1227,49,"Approach and Landing Operations with Vertical Guidance",en
+1228,50,"Amateur Radio Direction Finding",en
+1229,51,"Aeronautical Radionavigation Service",en
+1230,52,"Aeronautical Radionavigation-Satellite Service",en
+1231,53,"Average Revenue Per User",en
+1232,54,"Amateur Service",en
+1233,55,"Amateur-Satellite Service",en
+1235,57,"Amateur-Satellite Service",en
+1236,636,"See LSA/ASA",en
+1237,58," American Standard Code for Information Interchange",en
+1238,59,"Airport Surface Detection Equipment",en
+1239,60,"Aeronautical Spectrum Frequency Consultation Group",en
+1240,64,"(1) Automatic Terminal Information Service
+(2) Automatic Transmitter Identification System",en
+1241,65,"(1) Air Traffic Management
+(2) Asynchronous Transfer Mode",en
+1242,66,"Aid to Navigation [Rec. ITU-R M.1371-3]",en
+1243,67,"Automatic Transmitter Power Control",en
+1244,68,"Air Traffic Services",en
+1245,69,"Advanced Television Systems Committee",en
+1246,70,"Automatic Vehicle Identification [ECA]",en
+1247,74,"Broadcasting station, sound",en
+1248,78,"Building Material Analysis",en
+1249,96,"Code Division Multiple Access",en
+1250,95," International Telegraph and Telephone Consultative Committee (ITU). Renamed ITU-T in 1993.",en
+1251,94,"International Radio Consultative Committee (ITU); french: Comité consultatif international pour la radio. In 1992, the CCIR became the ITU-R.",en
+1252,75,"Block Edge Mask [ECC Rep 131]",en
+1253,88,"Broadband Wireless Access",en
+1254,76,"Broadband Fixed Wireless Access [ECA]",en
+1255,77,"Beyond Line-Of-Sight",en
+1256,87,"Broadcasting station, television",en
+1257,90,"Common Alerting Protocol",en
+1258,80,"Broadband over Powerline",en
+1259,89,"Command and Control",en
+1260,91,"Command and Control",en
+1261,92,"Citizen Band (27 MHz)",en
+1262,93,"Communication Committee Broadcasting Issues Subgroup",en
+1263,81,"Bits per Second ",en
+1264,86,"Broadcasting-Satellite Service",en
+1265,85,"(1) Broadcasting Service
+(2) Base Station",en
+1266,71,"Airborne Weather Radar",en
+1267,84,"Basic Area Navigation",en
+1268,72,"Broadcasting Auxiliary Service",en
+1269,83,"Bureau des radiocommunications UIT-R",en
+1270,63,"Air Trafic Control",en
+1271,62,"Amateur-Satellite Service",en
+1272,61,"Airfield Surface Movement Indicator",en
+1273,73,"Broad Band Disaster Relief",en
+1274,82,"Binary Phase-Shift Keying",en
+1275,97,"European Conference of Postal and Telecommunications Administration",en
+1276,98,"Comitée Européen de Réglementation Postale",en
+1277,99,"Complementary Ground Components",en
+1278,100,"Channel Bandwith",en
+1279,101,"Channel Spacing",en
+1280,102," International High Frequency Broadcasting Conference",en
+1281,103,"International Maritime Radio Association",en
+1282,104,"Special International Committee on Radio Interference",en
+1283,105,"Conferencia Interamericana des Telecomunicaciones",en
+1284,106,"Communication, Navigation, Surveillance/Air Trafic Managment",en
+1285,107,"Electronic Communication Comittee",en
+1286,110,"Cognitive Pilot Channel",en
+1287,146,"Dedicated Short-Range Communication",en
+1288,130,"Differential Global Navigation Satellite System",en
+1289,128,"Digital Enhanced Cordless Telecommunication",en
+1290,129,"Dynamic Frequency Selection",en
+1291,126,"Digital Communication System",en
+1292,132,"Deutsche Zentrum fur Lüft- und Raumfahrt",en
+1293,131,Downlink,en
+1294,118,"Continuous Wave",en
+1295,116,"Cordless Telephone",en
+1296,127,Decision,en
+1297,117,"ITU Convention",en
+1298,111,"Conference Preparatory Group",en
+1299,133,"Data Link Service",en
+1300,125,"Direct Broadcast (dB = decibel)",en
+1301,144,"Digital Switchover",en
+1302,141,"Direct Spread Code Division Multiple Access",en
+1303,119,"Differential Global Positioning System",en
+1304,140,"Digital Selective Calling",en
+1305,142,"Detailed Spectrum Investigation",en
+1306,143,"Digital Subscriber Line",en
+1307,134,"Digital Multimedia Broadcasting",en
+1308,112,"Conference Preparatory Meeting",en
+1309,145,"Digital Satellite Radio",en
+1310,135,"Distance Measuring Equipment",en
+1311,120,Digital-to-Analog,en
+1312,113,"1) Central Radio Station
+2) Cognitive Radio System",en
+1313,114,"(1) Central Station
+(2) Carrier Sense
+(3) Control Station",en
+1314,115,"Carrier Sense Time Division Multiple Access",en
+1315,124,"Direct-Air-to-Ground Communications",en
+1316,121,"Detect And Avoid",en
+1317,122,"Digital Audio Broadcasting",en
+1318,123,"Digital Audio Broadcasting - Internet Protocol",en
+1319,136,"Direct Mode Operation",en
+1320,138,"Digital Radio Mondial",en
+1321,158,"European Commission",en
+1322,159,"European Common Allocation Table. See http://www.erodocdb.dk/docs/doc98/official/pdf/ERCRep025.pdf ",en
+1323,194,"(1) European Union
+(2) EUropean footnote",en
+1324,173,"Equivalent Isotropically Radiated Power",en
+1325,181,"Earth Observation Satellites",en
+1326,179,"Electronic News Gathering/Outside Broadcasting",en
+1327,182,"Equivalent Power Flux Density",en
+1328,193,"European Telecommunications Standard Institute",en
+1329,183,"Electronic Programme Guide",en
+1330,184,"Emergency Position Indicating Radio Beacon",en
+1331,185,"European Radiocommunications Committee",en
+1332,191,"Earth Stations on-board Vessels",en
+1333,190,"European Space Agency",en
+1334,186,"Efective Radiated Power",en
+1335,187,"European Radio Messaging System",en
+1336,630,"European Rail Traffic Management System",en
+1337,188,"European Radiocommunications Office",en
+1338,241,"Geostationary Operational Meteorological Satellite",en
+1339,242,"Glide Path",en
+1340,240,"Geostationary Operational Environmental Satellite",en
+1341,228,"Fixed station",en
+1342,214,"Aeronautical station in the aeronautical mobile (OR) service",en
+1343,230,"Ground Based Augmentation System",en
+1344,238,"Global Navigation Satellite System",en
+1345,239,"General Operator's Certificate",en
+1346,215,"Frequency Hopping Spread Spectrum",en
+1347,216,"Fast Information Channel",en
+1348,234,"Global Maritime Distress and Safety System",en
+1349,235,"Geostationary Meteorological Satellite",en
+1350,224,"Fixed-Satellite Service",en
+1351,217,"First-in, first-out",en
+1352,249,GSM-Railway,en
+1353,247,"GSM Association",en
+1354,248,"GSM on Board Vessels",en
+1355,250,"Geostationary Satellite Orbit",en
+1356,268,"High Speed Packet Access",en
+1357,287,"International Mobile Telecommunications. See ITU Res. 56-1. IMT encompasses IMT-2000, IMT-Advanced and IMT-2020.",en
+1358,264," High Performance Radio Local Area Networks",en
+1359,259,"High e.i.r.p. Satellite Terminals",en
+1360,267,"High-Speed Downlink Packet Access",en
+1361,261,"High Frequency BroadCasting",en
+1362,285," International Maritime Organisation",en
+1363,275," Information and Communication Technologies",en
+1364,262,"High Frequency Coordination Conference",en
+1365,293," Internet Protocol",en
+1366,278," Institute of Electrical and Electronics Engineers",en
+1367,274,"International Civil Aviation Organisation",en
+1368,263,"Highly Inclined Orbits",en
+1369,255,"High Density Fixed Service",en
+1370,281,"International Frequency Information Circular",en
+1371,289," International Mobile Telecommunications-2000",en
+1372,272,"International Amateur Radio Union",en
+1373,257,"High Definition TV",en
+1374,269,"High-Speed Uplink Packet Access",en
+1375,271," International Association of Lighthouse Authorities",en
+1376,258,"Highly Eliptical Orbit ",en
+1377,276,"ITU Digitized World Map",en
+1378,288,"International Mobile Telecommunications-Advanced",en
+1379,385,"Next Generation Mobile Networks",en
+1380,365,"Maritime Radionavigation-Satellite Service",en
+1381,375,"Major World Air Route Area",en
+1382,356,"Maritime Mobile-Satellite Service",en
+1383,344,"Medium Frequency",en
+1384,364,"Maritime Radionavigation Service",en
+1385,380,"1) Navigational Text Messages
+2) Narrow-band direct-printing telegraphy system for transmission of navigational and meteorological warnings and urgent information to ships
+",en
+1386,372,"Maximum Usable Frequency",en
+1387,349,"Master International Frequency Register",en
+1388,345,"Multi Frequency Network",en
+1389,351,"Multilateral Meeting",en
+1390,352,"Microwave Landing System",en
+1391,354,"Maritime Mobile Service",en
+1392,358,"Man over Board",en
+1393,343,"Meteorological-Satellite Service",en
+1394,360,"Memorandum of Understanding",en
+1395,353,"Microwave Multipoint Distribution System",en
+1396,586,"Very High Frequency",en
+1397,589,"Very Low Frequency",en
+1398,635,"Licensed/Authorised Shared Access",en
+1399,588,"Very Long Baseline Interferometry",en
+1400,637,"Machine-to-Machine. Non-personal communication, part of the Internet of Things (IoT).",en
+1401,497,"Surface-Based Radar",en
+1402,498,"Special Committee on regulatory/procedural matters",en
+1403,499,"Satellite Digital Audio Broadcasting",en
+1404,500,"1) Satellite Digital Radio
+2) Software Defined Radio",en
+1405,501,"Space-to-Earth direction",en
+1406,503,"Single European Sky",en
+1407,502,"Séquentiel Couleur á Mémoire",en
+1408,504,"Single European Sky ATM Research Programme",en
+1409,505,"Space Frequency Coordination Group",en
+1410,506,"Single Frequency Network",en
+1411,507,"Study Group",en
+1412,508," Steering Group on Radio Frequency Coordination",en
+1413,509,"Signal to Interference and Noise Ratio",en
+1414,510,"Satellite Interactive Terminal",en
+1415,511,"Super High Frequency",en
+1416,514,"Soil Moisture and Ocean Salinity",en
+1417,516,"Signal-to-Noise ratio",en
+1418,517,"Satellite News Gathering",en
+1419,519,"International Convention for the Safety of Life at Sea",en
+1420,518,"Signal to Noise Ratio",en
+1421,520,"Space Operation Service",en
+1422,521,"Self-Organized Time Division Multiple Access",en
+1423,522," Satellite Personal Communication System",en
+1424,523,"Short Range Device",en
+1425,448," Regional And Domestic Air Route Area",en
+1426,449,"1) Radiodetermination Service
+2) Radio Data Service nebo Radio Data System",en
+1427,450,"Radiodetermination-Satellite Service",en
+1428,451,Recommendation,en
+1429,453,Resolution,en
+1430,454,"Radio Frequency",en
+1431,452,report,en
+1432,458,"Radio Local Area Network",en
+1433,457,"Railway Interoperability and Safety Committee",en
+1434,480,"Received Signal Strength Indication",en
+1435,455,"Radio Frequency Identification Device",en
+1436,456,"River Information System",en
+1437,460,"Radiolocation-Satellite Service",en
+1438,462,"Radionavigation land station",en
+1439,446,"Radio Astronomy Service. See also CRAF.",en
+1440,1,,en
+1441,542,"TETRA Enhanced Data Services",en
+1442,541,"Terrestrial Digital Multimedia Broadcasting",en
+1443,540,"Time Division Multiple Access",en
+1444,539,"Time Division Multiplexing",en
+1445,538,"Time Division Duplex",en
+1446,537,"Terrestrial-Digital Audio Broadcasting",en
+1447,536,"Telemetry and Command",en
+1448,461,"Maritime radionavigation mobile station",en
+1449,463,"Area Navigation",en
+1450,464,"RadioNavigation Service",en
+1451,465," RadioNavigation Satellite Service",en
+1452,466,"Restricted Operator's Certificate",en
+1453,467,"Receive Only Earth Stations",en
+1454,468,"Rules of Procedure",en
+1455,469,"Remotely Piloted Aircraft",en
+1456,470,"Remote Piloting Centre",en
+1457,471,"RR = Radio Regulations",en
+1458,472,"Radio Regulations Board",en
+1459,473,"Radiolocation System for Short Range Navigation",en
+1460,474,"Radio Spectrum Committee",en
+1461,475,"Radio Speed Meter",en
+1462,476,"Radar Sensing and Measurement System",en
+1463,477,"Responder Beacon",en
+1464,478,"Radio Spectrum Policy Group",en
+1465,479,"en-Route Surveillance Radar",en
+1466,481,"Road Side Unit",en
+1467,482,"Radio Technical Commission for Aeronautics",en
+1468,483,"Radio&Telecommunications Terminal Equipment",en
+1469,484,"Road Transport and Traffic Telematics",en
+1470,485,"Receiver [Rec. ITU-R M.1371-3]",en
+1471,486,"Meteorological aids mobile station",en
+1472,487,"Sense and Avoid",en
+1473,488,"Service Ancillary for Broadcasting",en
+1474,489,"Service Ancillary for Broadcasting/Service Ancillary for Program",en
+1475,490,"Service Ancillary for Program",en
+1476,491,"1) Search and Rescue
+2) Synthetic Aperture Radar",en
+1477,492,"Standards And Recommended Practices",en
+1478,493,"Search and Rescue Satellite Aided Tracking (see COSPAS)",en
+1479,494,"Search and Rescue Transponder",en
+1480,495,"Satellite Communications",en
+1481,496,"Satellite Based Augmentation System",en
+1482,512,,en
+1483,513,"Meteorological aids land station",en
+1484,515,"Surface Movement Radar",en
+1485,524,"Automotive Short Range Radar",en
+1486,525,"Space Research Service",en
+1487,526,"Standard frequency and time signal station",en
+1488,527,"Ship Security and Alerting Systems",en
+1489,528,"Single Side Band",en
+1490,529,"Secondary Surveillance Radar",en
+1491,530,"Satellite User Terminal",en
+1492,531,,en
+1493,532,"Tactical Aeronautical Navigation",en
+1494,533,"Total Access Communication System",en
+1495,534,"TETRA Advanced Packed Data Service",en
+1496,535,"Telecommunication Conformity Assesment and Market Surveillance Committee",en
+1497,545,,en
+1498,570,,en
+1499,305,,en
+1500,397,"Nomadic Wireless Access",en
+1501,398,"Numerical Weather Prediction",en
+1502,399,"Outside Broadcasting",en
+1503,400,"On-Board Unit",en
+1504,401,"Oceanographic Data Station",en
+1505,402,"Object Discrimination and Characterization",en
+1506,403,"Oceanographic data interrogation station",en
+1507,404,"Orthogonal Frequency Division Multiplexing",en
+1508,405,"Orthogonal Frequency Division Multiple Access",en
+1509,406,"The International Radio and Television Organisation",en
+1510,407,Out-of-Band,en
+1511,409,"Operator Review Meetings",en
+1512,410,"Optical Wireless ",en
+1513,411,Point-to-Multipoint,en
+1514,412,"1) Point-to-Point
+2) Peak-to-Peak",en
+1515,413,"Programme Associated Data",en
+1516,414,"Phase Alternate Line (Colour TV standard)",en
+1517,415,"Public Access Mobile Radio",en
+1518,416,"Precision Approach Radar
+",en
+1519,417,"Pulse Code Modulation",en
+1520,418,"Personal Communication Network",en
+1521,419,"PreDetermined Arc",en
+1522,420,,en
+1523,421,"Power Flux Density",en
+1524,422,,en
+1525,423,"Personal Locator Beacon",en
+1526,424,"Powerline Communications",en
+1527,425,"Phase Modulation",en
+1528,426,"Professional Mobile Radio/Private Mobile Radio",en
+1529,427,"Programme Making and Special Events services",en
+1530,428,"Plenipotentiary Conference",en
+1531,429,"Public Protection and Disaster Relief",en
+1532,430,,en
+1533,431,"Precision Area Navigation",en
+1534,432,"Phase Shift Keying",en
+1535,433,"Primary Surveillance Radar",en
+1536,434,"Project Team",en
+1537,435,,en
+1538,436,"Private Wide Area Paging ",en
+1539,437,"Professional Wireless Microphone Systems",en
+1540,438,"Quadrature Amplitude Modulation",en
+1541,439,"Quality of Service",en
+1542,440,"Quadrature Phase Shift Keying",en
+1543,442,"(1) Radiocommunication Assembly
+(2) Radio Astronomy
+(3) Radar Altimeter",en
+1544,443,,en
+1545,444,"Radio Beacon",en
+1546,445,"Radiocommunication Advisory Group",en
+1547,447,"Rescue Coordination Center
+Regional Commonwealth in the Field of Communications",en
+1548,459,"Radiolocation Service",en
+1549,579,,en
+1550,584,,en
+1551,587,,en
+1552,590,,en
+1553,602,,en
+1554,346,"Multimedia Home Platform",en
+1555,341,"Mobile Earth Station",en
+1556,342,"Meteorological Aids Service",en
+1557,347,"Maritime Identification Digits",en
+1558,348,"Multifunctional Information Distribution System",en
+1559,350,"Land mobile station
+Mobile Link (Mobile station transmits)",en
+1560,355,"Maritime Mobile Service Identity",en
+1561,357,"Mobile station",en
+1562,359,,en
+1563,361,"Moving Pictures Experts Group",en
+1564,362,"Multipurpose Radar",en
+1565,340,"Medium Earth Orbit",en
+1566,366,"Minimum Radar Vectoring Altitude",en
+1567,367,"1) Mobile Service
+2) Member States
+3) Ship station",en
+1568,368,"Minimum Sector Altitude",en
+1569,369,"Maritime Safety Information",en
+1570,370,"Minimum-shift keing",en
+1571,363,"Radiolocation Mobile Station",en
+1572,373," Multipoint Video Distribution Service",en
+1573,371,"1) Mobile Satellite Service
+2) Mobile Satellite Services ",en
+1574,376,"Multimedia Wireless System",en
+1576,378,"National Aeronautics and Space Administration",en
+1577,379,"North Atlantic Treaty Organisation",en
+1578,381,"Narrow Band Direct Printing",en
+1579,374,"Mobile Wireless Access",en
+1580,383,"Noise Figure",en
+1581,384," Near Field Communication",en
+1582,386,"NATO Joint Civil/Military Frequency Agreement",en
+1583,387,,en
+1584,388,"Maritime radionavigation land station",en
+1585,389,"Non Line of Sight",en
+1586,390,"Nordic Mobile Telephone",en
+1587,391,"1) National Oceanic and Atmospheric Administration
+2) Polar METSAT",en
+1588,392,"Non Geostationary Orbit",en
+1589,382,"Non-Directional Radio Beacon",en
+1590,394,"National Television Systems Committee",en
+1591,393," Radionavigation mobile station",en
+1592,395,"National Table of Frequency Allocations",en
+1593,396,"Near Vertical Incidence Skywave",en
+1594,337,"Mobile Communication on board Aircraft",en
+1595,336,"Megabytes per second",en
+1596,335,"Megabits per second",en
+1597,332,"Location Tracking Applications Type 2",en
+1598,324,"Line of Sight",en
+1599,323,"Land Mobile-Satellite Service",en
+1600,320,"Light Detection and Ranging",en
+1601,312,,en
+1602,307,,en
+1603,306,,en
+1604,304,,en
+1605,303,"International Telecommunication Union - Radiocommunication",en
+1606,301,"International Telecommunication Satellite Organisation",en
+1607,298,,en
+1608,292,"International Organisation of Space Communication",en
+1609,291,"International Telecommunication Satellite Organisation",en
+1610,290,"International Maritime Satellite Organisation",en
+1611,286,"International Mobile Satellite Organisation",en
+1612,284,"Instrument Landing System – Glide Path",en
+1613,283,"Instrument Landing System",en
+1614,282,"International Hydrographic Organization",en
+1615,280,"International Frequency List",en
+1616,279,"Identification Friend or Foe",en
+1617,277,"International Electrotechnical Commission",en
+1618,273,"International Air Transport Association",en
+1619,270,"Transmitter Height",en
+1620,266,"Handportable Station",en
+1621,265,"Trunk networks",en
+1622,260,"High Frequency",en
+1623,256,"High Density Fixed Satellite Service",en
+1624,254,"HCM Agreement – Agreement between the Administrations of Austria, Belgium, the Czech Republic, Germany, France, Hungary, the Netherlands, Croatia, Italy, Liechtenstein, Lithuania, Luxembourg, Poland, Romania, the Slovak Republic, Slovenia and Switzerland on the co-ordination of frequencies between 29.7 MHz and 43,5 GHz for the fixed service and the land mobile service.",en
+1625,253,"Hybrid Broadcast Broadband TV",en
+1626,252,"High Altitude Platform Station",en
+1627,251,,en
+1628,246,"Global System for Mobile Communications",en
+1629,229,,en
+1630,226,"Fixed Wireless Access",en
+1631,222,"Fixed Service",en
+1632,220,"Port station",en
+1633,218,"Land station",en
+1634,213,,en
+1635,207,"Coast station",en
+1636,206,"Base station",en
+1637,204,"Aeronautical station",en
+1638,203,,en
+1639,202,,en
+1640,201,,en
+1641,200,,en
+1642,195,,en
+1643,174,,en
+1644,171,"Extra High Frequency",en
+1645,151,,en
+1646,137,,en
+1647,109,,en
+1648,108,,en
+1649,79,,en
+1650,46,,en
+1651,4,,en
+1652,3,,en
+1653,2,,en
+1654,626,,en
+1655,631,,en
+1656,633,,en
+1657,639,"Základnová stanice, anglicky Base Transceiver Station, řídící vysílač a přijímač radiových signálů, obvykle v mobilních sítích.",cs
+1658,639,"Base Transceiver Station ",en
+1659,640,"Pozemské stanice na pohyblivých platformách. (ESOMP - Earth Stations On Mobile Platforms).",cs
+1660,640,"The Earth Stations On Mobile Platforms.",en
+1661,641,"Sítě Pozemní pohyblivé služby. Není to synonymum pro sítě PMR/PAMR.",cs
+1662,641,,en
+1663,642,"Committee on Radio Astronomy Frequencies, www.craf.eu. ",cs
+1664,642,"Committee on Radio Astronomy Frequencies, www.craf.eu.",en
+1665,643,"Systém 5. generace pohyblivých komunikací (5G), anglicky International Mobile Telecommunications-Advanced. IMT-2020 označuje pokročilejší systémy, než jsou IMT-2000 a IMT-Advanced (ITU Res. 56-2).",cs
+1666,643,"5th generation of IMT. The term “IMT-2020” is applied to those systems, system components and related aspects that include new radio interface(s) which support the new capabilities of systems beyond IMT-2000 and IMT-Advanced (ITU Res. 56-2).",en
+1667,644,"Africká telekomunikační unie",cs
+1668,644,"African Telecommunicatios Union",en
+1669,645,"Viz D-GPS",cs
+1670,645,"See D-GPS",en
+1671,646,"Sektor Mezinárodní telekomunikační unie pro rozvoj, anglicky International Telecommunication Union - Development",cs
+1672,646,"International Telecommunication Union - Development",en
+1673,647,"Telekomunikační sektor Mezinárodní telekomunikační unie, anglicky International Telecommunication Union - Telecommunication",cs
+1674,647,"International Telecommunication Union - Telecommunication",en
+1675,648,"Řídící jednotka sítě, anglicky Network Control Unit, např. na palubě letadla, která zamezuje použití kmitočtů pro přímé spojení terminálu uživatele se základnovou stanicí umístěnou na zemi.",cs
+1676,648,"Network Control Unit",en
+1677,649,"Bezpečnost životů, anglicky Safety of Life.",cs
+1678,649,"Safety of Life",en
+1679,650,"Set-top-box (název pochází z obvyklého umístění nahoře na televizi (TV setu)), zařízení převádějící přijatý signál na jiný, který televize umí zpracovat, např. signál digitální televize na analogový.",cs
+1680,650,Set-top-box,en
+1681,651,"Pracovní skupina CEPT pro spektrálnín inženýrství (anglicky Working Group Spectrum Engineering). Skupina vypracovávající technické návody pro využití kmitočtových pásem různými službami, kritéria sdílení při využívání stejného pásma nebo kritéria slučitelnosti při využívání sousedních pásem.",cs
+1682,651,"Working Group Spectrum Engineering. EPT group developing technical guidelines for the use of the frequency spectrum by various radiocommunication services, sharing criteria for the use of the same band, compatibility criteria for the use of different bands.",en
+1689,655,"Bod-více bodů, anglicky point-to-multipoint",cs
+1690,655,Point-to-Multipoint,en
+1691,656,"Integrated Rural Telephony – rádiové přístupové sítě pro připojení účastníků k veřejné telefonní síti.  ",cs
+1692,656,"Integrated Rural Telephony",en
+1693,657,"Aircraft Node B – rádiové rozhraní na palubě letadla",cs
+1694,657,"Aircraft Node B - radio interface onboard",en
+1695,658,"Přepravní a dopravní telematika, anglicky transport and traffic telematics",cs
+1696,658,"Transport and traffic telematics",en
+1697,659,"Rádiová síť v okolí těla pacienta sloužící ke shromažďování dat ze senzorů sledujících jeho životní funkce včetně transportu těchto dat k monitoringu/zpracování. anglicky Medical Body Area Network Systems
+",cs
+1698,659,"Medical Body Area Network Systems",en
+1699,660,"Akustické orientační majáčky",cs
+1700,660,"Acoustic beacons for orientation (Czech abbreviation)",en
+1701,661,"Digitální hlasové majáčky",cs
+1702,661,"Digital voice beacons (Czech abbreviation)",en
+1703,662,"Hlasově aktivované vysílání, anglicky Voice Activation Exchange",cs
+1704,662,"Voice Activation Exchange  ",en
+1705,663,"Klíčovací poměr je podíl času, kdy zařízení aktivně vysílá, v rámci jakékoliv jedné hodiny, anglicky duty cycle.",cs
+1706,663,"A duty cycle is the percentage of one period in which a signal or system is active.",en
+1707,664,"Druh vysílání s dvěma postranními pásmy, anglicky Double Side Band",cs
+1708,664,"Double Side Band",en
+1709,665,"Český telekomunikační úřad",cs
+1710,665,"Czech Telecommunication Office",en
+1711,666,"Automatic Dependent Surveillance-Broadcast (ADS-B): Letadlové vysílače signálů vysílaných směrem k družicím signály, které obsahují mj. identifikaci letounu a detekci jeho pozice. (Pozn.: Rezoluce 425 (WRC-15)).",cs
+1712,666,"Automatic Dependent Surveillance-Broadcast (ADS-B): Aircraft transmitters operating within aeronautical mobile-satellite (R) service. Transmission of aircraft identification and position. (Note: Resolution 425 (WRC-15)).",en
+1713,667,"Zjištování volnosti kanálu, anglicky Clear Channel Assessment. CCA je technika pro koexistenci více technologií v pásmech využívaných na základě všeobecného oprávnění. Zahrnuje detekci nosné a detekci energie obecně. Nosná je detekováná na základě síly signálu platného symbolu podle normy 802.11. Limitní hodnoty pro detekci jsou stanoveny v normě a pro nosnou je podle 802.11a 82 dBm a pro energie obecně 62 dBm. Pokud není žádný signál detekován, započne vysílání.",cs
+1714,667,"Clear channel assessment. CCA is a mechanism in which multiple technologies using unlicensed spectrum can coexist. It includes Carrier sensing and energy detection. In Carrier sensing, you measure received signal strength of valid 802.11 symbol. The thresholds for both carrier sense and energy detection are predefined in the standard. For 802.11a the carrier sensitivity is ­82 dBm and the energy detection threshold is ­62 dBm. If no signal is sensed based on ED threshold, then go ahead with a transmission right away. ",en
+1715,668,"Rozšířená detekce volného kanálu, anglicky extended Clear Channel Assessment. Pokud je na základě detekce volného kanálu (viz CCA) zjištěno obsazení kanálu, čeká se na uvolnění. Jakmile je volný, čeká se náhodný počet detekcí volného kanálu před tím, než se zahájí vysílání.",cs
+1716,668,"extended Clear Channel Assessment. If a channel is busy (see CCA), then wait for it to become clear. Once it is clear, wait for a random number of additional CCAs indicating that the channel has remained clear before starting transmission. ",en
+1717,669,"Internet věcí, anglicky Internet of Things. Distribuce informací a signálů generovaných stroji na základě čidel, např. komunikace mezi stroji M2M.",cs
+1718,669,"Internet of Things.",en
+1719,670,"Společné využívání spektra, anglicky Collective Use of Spectrum. Využití rádiového spektra za použití standardizovaných technických řešení pro sdílení spektra v použitých rádiových zařízeních. Příkladem je využívání pásem na základě všeobecného oprávnění.",cs
+1720,670,"Collective Use of Spectrum",en
+1721,671,"Bílá místa v televizním pásmu, anglicky TV White Spaces. Jako bílé místo se označuje úsek, který je možno využít v konkrétním čase a na konkrétním geografickém území v neinterferenčním a nechráněném režimu ve vztahu k službám s vyšší prioritou. Příkladem je využití úseku v televizním kanále, který není na dané místě v danou dobu využíván pro vysílání TV.",cs
+1722,671,"TV White Spaces",en
+1723,672,"Vysílání řízené signálem nosné vlny, anglicky Carrier Sensing Adaptive Transmission",cs
+1724,672,"Carrier Sensing Adaptive Transmission",en
+1725,673,"Úsek rádiového spektra vymezený dolním a horním kmitočtem, alternativně jiným jednoznačným způsobem, např. středním kmitočtem a kanálovou roztečí.",cs
+1726,673,"The range of radio spectrum defined by lower and upper frequencies, or alternatively by another unambiguous way, e.g. centre frequency and channel raster.",en
+1727,674,"Ucelený rozsah kmitočtů vymezený dolním a horním kmitočtem, pro účely postupu při omezení počtu práv k využívání rádiových kmitočtů podle § 20 zákona o elektronických komunikacích, jehož velikost je obvykle určena technologicky nebo v souladu s mezinárodními smlouvami, dohodami a mezinárodní harmonizací.",cs
+1728,674,"Continuous range of frequencies defined by lower and upper frequencies, for the procedure of limiting the number of rights to use radio spectrum, based on technology requirements and/or in accordance with the international agreements and harmonisation.",en

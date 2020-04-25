@@ -1,0 +1,61 @@
+id,translatable_id,name,locale
+1,37,(nepřiděleno),cs
+2,37,"(not allocated)",en
+3,1,Amatérská,cs
+4,1,Amateur,en
+5,2,"Družicová amatérská",cs
+6,2,Amateur-Satellite,en
+7,31,"Družicová kmitočtových normálů a časových signálů",cs
+8,31,"Standard Frequency and Time Signal-Satellite",en
+9,17,"Družicová letecká pohyblivá",cs
+10,17,"Aeronautical mobile-satellite",en
+11,9,"Družicová meteorologická",cs
+12,9,Meteorological-satellite,en
+13,7,"Družicová pevná",cs
+14,7,Fixed-Satellite,en
+15,16,"Družicová pohyblivá",cs
+16,16,Mobile-Satellite,en
+17,27,"Družicová radionavigační",cs
+18,27,Radionavigation-satellite,en
+19,34,"Družicová rádiového určování",cs
+20,34,Radiodetermination-Satellite,en
+21,21,"Družicová rozhlasová",cs
+22,21,Broadcasting-Satellite,en
+23,5,"Družicového průzkumu Země",cs
+24,5,"Earth Exploration-Satellite",en
+25,30,"Kmitočtových normálů a časových signálů",cs
+26,30,"Standard Frequency and Time Signal",en
+27,4,"Kosmického provozu",cs
+28,4,"Space Operation",en
+29,32,"Kosmického výzkumu",cs
+30,32,"Space Research",en
+31,11,"Letecká pohyblivá",cs
+32,11,"Aeronautical mobile",en
+33,25,"Letecká radionavigační",cs
+34,25,"Aeronautical radionavigation",en
+35,8,Mezidružicová,cs
+36,8,Inter-Satellite,en
+37,15,"Námořní pohyblivá",cs
+38,15,"Maritime mobile",en
+39,26,"Námořní radionavigační",cs
+40,26,"Maritime radionavigation",en
+41,6,Pevná,cs
+42,6,Fixed,en
+43,10,Pohyblivá,cs
+44,10,Mobile,en
+45,3,"Pomocná meteorologická",cs
+46,3,"Meteorological Aids",en
+47,14,"Pozemní pohyblivá",cs
+48,14,"Land mobile",en
+49,22,Radioastronomická,cs
+50,22,"Radio Astronomy",en
+51,23,Radiolokační,cs
+52,23,Radiolocation,en
+53,24,Radionavigační,cs
+54,24,Radionavigation,en
+55,20,Rozhlasová,cs
+56,20,Broadcasting,en
+59,39,"Rádiového určování",cs
+60,39,Radiodetermination,en
+61,40,"Družicová námořní pohyblivá",cs
+62,40,"Maritime mobile-satellite",en
