@@ -1,2 +1,2 @@
 # ctu-cz
-Otevrena data ceskeho statistickeho uradu
+Otevrena data ceskeho telekomunikacniho uradu
